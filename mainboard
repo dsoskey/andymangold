@@ -155,24 +155,24 @@ Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
 Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
 Primordial Mist	c18	12	Not Owned	~~	Non-foil	5	U	~~	~~	Enchantment
-Sorin, Lord of Innistrad	dka	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Xenagos, the Reveler	ths	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cryptbreaker	ha1	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Power Sink	6ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ajani, the Greathearted	sld	520	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Elspeth, Sun's Nemesis	thb	255	Premium Owned	~~	Foil	4	W	~~	~~	Legendary Planeswalker — Elspeth
+Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
+Unearth	ulg	72	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
+Censor	akh	46	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Oust	roe	40	Owned	~~	Foil	1	W	~~	~~	Sorcery
 Braids, Cabal Minion			~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Light Up the Stage	afc	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Holy Nimbus	tsp	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thirst for Knowledge	mrd	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nadir Kraken	hbg	906	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brightling	bbd	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Malicious Affliction	ema	96	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rankle, Master of Pranks	peld	101p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	ima	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Purphoros's Intervention	pthb	151p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadelight Ranger	prix	136p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmcoil Engine	brr	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hokori, Dust Drinker	bok	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Eidolon of Obstruction	thb	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mardu Woe-Reaper	frf	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Adorned Pouncer	prm	64993	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -229,17 +229,17 @@ Elspeth, Knight-Errant	ala	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hexdrinker	mh1	168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Nissa	ogw	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Teferi, Hero of Dominaria	dom	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hanweir Garrison	emn	130a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Phoenix of Ash	thb	319	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	ddr	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Abandon	mh1	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scour All Possibilities	j21	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Noxious Gearhulk	klr	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Woe Strider	thb	317	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nether Void	leg	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archangel Avacyn	v17	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mu Yanling, Sky Dancer	m20	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightpack Ambusher	m20	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of Autumn	grn	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-The Scarab God	sld	900	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ashiok, Nightmare Muse	thb	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fact or Fiction	sld	333	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Engineer	h1r	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hero's Downfall	cp2	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -261,15 +261,15 @@ Batterskull	nph	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Krenko, Tin Street Kingpin	war	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Assassin's Trophy	grn	152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nissa, Steward of Elements	ps17	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Karn Liberated	puma	U2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Supreme Will	hou	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+The First Iroan Games	pthb	170p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Cratermaker	grn	103	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Snuff Out	mmq	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vial Smasher the Fierce	pz2	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kroxa, Titan of Death's Hunger	pthb	221p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Verdict	2x2	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Skysovereign, Consul Flagship	kld	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	sld	694	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -279,7 +279,7 @@ Ugin, the Ineffable	pwar	2s★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	plst	NPH-42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Stone	afc	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ophiomancer	cc2	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ajani, Mentor of Heroes	jou	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Declaration in Stone	ncc	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glorybringer	akh	134	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whirler Rogue	gnt	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -308,7 +308,7 @@ Shelldock Isle	sld	437	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treachery	uds	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fractured Identity	pz2	65681	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Incubation Druid	prna	131s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Pack Rat	rtr	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Glint-Sleeve Siphoner	aer	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oko, Thief of Crowns	peld	197p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk, Cursed Huntsman	prm	78856	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -326,7 +326,7 @@ Ugin, the Spirit Dragon	pm21	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skymarcher Aspirant	rix	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Compulsive Research	sta	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Exquisite Firecraft	prm	62503	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Overgrowth	40k	219★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Wolfwillow Haven	thb	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	prm	39646	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glen Elendra Archmage	eve	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	fut	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -336,7 +336,7 @@ Eternal Witness	mma	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treetop Village	ulg	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lodestone Golem	brr	29	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Solemn Simulacrum	mrd	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Witching Well	eld	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Realm-Cloaked Giant	eld	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riftwing Cloudskate	tsr	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Karn, Scion of Urza	dom	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -349,7 +349,7 @@ Hymn to Tourach	ptc	ll38d	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recruiter of the Guard	plst	CN2-22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Armageddon	leb	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plow Under	8ed	272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Search for Azcanta	pxtc	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thassa's Intervention	pthb	72s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani Steadfast	ps14	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Precinct Captain	rtr	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Will Kenrith	clb	738	~~	~~	~~	"""~~"""	~~	~~	~~	~~
