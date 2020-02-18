@@ -160,14 +160,21 @@ Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary
 Unearth	ulg	72	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Censor	akh	46	Premium Owned	~~	Foil	2	U	~~	~~	Instant
 Oust	roe	40	Owned	~~	Foil	1	W	~~	~~	Sorcery
-Braids, Cabal Minion			~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Light Up the Stage	afc	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Waterlogged Grove	mh1	249	Owned	~~	Non-foil	0	U,G	Hybrid	~~	Land
+Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
+Silent Clearing	mh1	246	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
+Fiery Islet	mh1	238	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
+Nurturing Peatland	mh1	243	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
+Mutavault	pgpx	2018	Premium Owned	~~	Foil	0	~~	~~	~~	Land
+Stonecoil Serpent	peld	235p	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact Creature — Snake
+Knight of the Ebon Legion	m20	105	Premium Owned	~~	Foil	1	B	~~	~~	Creature — Vampire Knight
+Rimrock Knight	eld	294	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Knight
 Knight of the Holy Nimbus	tsp	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nadir Kraken	hbg	906	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brightling	bbd	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Malicious Affliction	ema	96	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rankle, Master of Pranks	peld	101p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gnarled Scarhide	jou	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	ima	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Purphoros's Intervention	pthb	151p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadelight Ranger	prix	136p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -233,7 +240,7 @@ Phoenix of Ash	thb	319	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	ddr	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Abandon	mh1	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scour All Possibilities	j21	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Woe Strider	thb	317	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ruinous Path	bfz	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nether Void	leg	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archangel Avacyn	v17	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mu Yanling, Sky Dancer	m20	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -264,6 +271,7 @@ Assassin's Trophy	grn	152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Will	hou	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The First Iroan Games	pthb	170p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Cratermaker	grn	103	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Daretti, Ingenious Iconoclast	med	GR3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Snuff Out	mmq	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -315,6 +323,7 @@ Garruk, Cursed Huntsman	prm	78856	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sulfuric Vortex	ema	150	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Metalworker	wc00	jf135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hope of Ghirapur	klr	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vryn Wingmare	pori	40s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth, Sun's Champion	slc	2013	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grave Titan	prm	62403	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -350,12 +359,3 @@ Recruiter of the Guard	plst	CN2-22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Armageddon	leb	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plow Under	8ed	272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thassa's Intervention	pthb	72s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ajani Steadfast	ps14	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Precinct Captain	rtr	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Will Kenrith	clb	738	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Liliana, Heretical Healer	pori	106s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thrill of Possibility	sta	109	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fiery Temper	uma	129	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wildborn Preserver	eld	375	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tidehollow Sculler	mma	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thief of Sanity	pgrn	205s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
