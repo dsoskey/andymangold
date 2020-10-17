@@ -181,13 +181,15 @@ Horizon Canopy	ima	240	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
 Golos, Tireless Pilgrim	m20	226	Premium Owned	~~	Foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Lurrus of the Dream-Den	iko	226	Owned	~~	Non-foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
 Cryptic Command	ppro	2020-1	Owned	~~	Foil	4	U	~~	~~	Instant
-Mardu Woe-Reaper	frf	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Adorned Pouncer	prm	64993	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Land Tax	4ed	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Memory Leak	iko	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hellrider	dka	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Garruk, Unleashed	pm21	183p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thraben Inspector	soi	44	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
+Faerie Guidemother	eld	274	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Faerie
+Emeria's Call	pznr	12s	Premium Owned	~~	Foil	0	W	White	~~	Land
+Sea Gate Stormcaller	znr	77	Owned	~~	Non-foil	2	U	~~	~~	Creature — Human Wizard
+Disfigure	zen	87	Premium Owned	~~	Foil	1	B	~~	~~	Instant
+Bloodchief's Thirst	znr	94	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
+Shatterskull Smashing	znr	161	Premium Owned	~~	Foil	0	R	Red	~~	Land
+Explore	wwk	99	Premium Owned	~~	Foil	2	G	~~	~~	Sorcery
+Seal of Fire	nem	98	Premium Owned	~~	Foil	1	R	~~	~~	Enchantment
 Deep Forest Hermit	mh1	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brimaz, King of Oreskos	sld	497	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -199,7 +201,7 @@ Embereth Shieldbreaker	eld	292	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Saheeli, Sublime Artificer	pwar	234s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mizzium Mortars	prm	99667	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartfire Immolator	m21	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lightning Helix	rav	213	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Roil Eruption	znr	389	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oblivion Ring	lrw	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Impulse	wc97	jk34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Acolyte of Flame	pm20	126p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -209,7 +211,7 @@ Sakura-Tribe Elder	c15	200	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Restoration Angel	2x2	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Devoted Druid	2x2	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Robber of the Rich	eld	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shriekmaw	c20	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hagra Mauling	prm	83874	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tithe Taker	prna	27s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Paradise Druid	afc	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wall of Omens	ddk	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -223,15 +225,15 @@ Rolling Earthquake	ptk	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whisperwood Elemental	frf	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger-Captain of Eos	prm	91205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ruin Raider	xln	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Basri Ket	pm21	7p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Curse of Disturbance	c21	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Soul Shatter	prm	83830	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gideon, Ally of Zendikar	pbfz	29s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Agadeem's Awakening	znr	336	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ultimate Price	f15	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vivien, Monsters' Advocate	iko	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vivien, Arkbow Ranger	m20	199	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Izzet Charm	rtr	172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Boon of the Wish-Giver	iko	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodghast	plst	ZEN-83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Adanto Vanguard	xln	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	g11	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth, Knight-Errant	ala	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -241,13 +243,13 @@ Teferi, Hero of Dominaria	dom	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phoenix of Ash	thb	319	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	ddr	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Abandon	mh1	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Scour All Possibilities	j21	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lonely Sandbar	ons	320	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Order of Midnight	eld	288	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nether Void	leg	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Languish	ori	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 City of Traitors	exo	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mu Yanling, Sky Dancer	m20	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nightpack Ambusher	m20	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Knight of Autumn	grn	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Judge's Familiar	f13	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashiok, Nightmare Muse	thb	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hieroglyphic Illumination	akh	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Engineer	h1r	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -265,7 +267,7 @@ Gutterbones	rna	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydroid Krasis	rna	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	7ed	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Questing Beast	eld	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Turntimber Symbiosis	znr	215	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Batterskull	nph	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Krenko, Tin Street Kingpin	war	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -277,7 +279,7 @@ Daretti, Ingenious Iconoclast	med	GR3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Snuff Out	mmq	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kroxa, Titan of Death's Hunger	pthb	221p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Verdict	2x2	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -309,7 +311,7 @@ Basalt Monolith	sum	235	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfbriar Elemental	wwk	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesmeric Fiend	ddk	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Izzet Signet	prm	62387	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Narset, Parter of Veils	sld	1141	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sea Gate Restoration	znr	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Lens	tsr	272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Everflowing Chalice	f11	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Coalition Relic	a25	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -317,11 +319,12 @@ Reclamation Sage	c18	159	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shelldock Isle	sld	437	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treachery	uds	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fractured Identity	pz2	65681	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mazemind Tome	brr	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Incubation Druid	prna	131s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Foulmire Knight	eld	286	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Oko, Thief of Crowns	peld	197p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Garruk, Cursed Huntsman	prm	78856	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Curator of Mysteries	c20	109	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Abrupt Decay	gk1	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sulfuric Vortex	ema	150	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Indatha Triome	piko	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Raugrin Triome	iko	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -339,12 +342,12 @@ Neutralize	iko	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Collective Defiance	sir	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfwillow Haven	thb	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Settle the Wreckage	pxln	34p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Glen Elendra Archmage	eve	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Glasspool Mimic	prm	83872	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	fut	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mardu Strike Leader	pfrf	75s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nullpriest of Oblivion	pznr	118p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ravenous Chupacabra	rix	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eternal Witness	mma	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Treetop Village	ulg	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kazandu Mammoth	znr	305	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lodestone Golem	brr	29	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Solemn Simulacrum	mrd	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -356,6 +359,3 @@ Wildfire	9ed	228★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Faithless Looting	pidw	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Worn Powerstone	40k	263★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palace Jailer	cn2	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hymn to Tourach	ptc	ll38d	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Recruiter of the Guard	plst	CN2-22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Armageddon	leb	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
