@@ -191,7 +191,11 @@ Shatterskull Smashing	znr	161	Premium Owned	~~	Foil	0	R	Red	~~	Land
 Explore	wwk	99	Premium Owned	~~	Foil	2	G	~~	~~	Sorcery
 Seal of Fire	nem	98	Premium Owned	~~	Foil	1	R	~~	~~	Enchantment
 Portent	ice	90	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
-Deep Forest Hermit	mh1	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Esika's Chariot	khm	315	Premium Owned	~~	Foil	4	G	~~	~~	Legendary Artifact — Vehicle
+Usher of the Fallen	khm	35	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Spirit Warrior
+Clarion Spirit	khm	6	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit
+Bloodsky Berserker	khm	80	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Berserker
+Ulcerate	m15	119	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brimaz, King of Oreskos	sld	497	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strip Mine	rin	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -218,8 +222,10 @@ Paradise Druid	afc	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wall of Omens	ddk	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Council's Judgment	cns	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Night's Whisper	ddm	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Reidane, God of the Worthy	pkhm	21s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Firedrinker Satyr	ths	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sarkhan the Masterless	war	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Domri, Anarch of Bolas	war	191★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gideon Blackblade	med	WS2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rolling Earthquake	ptk	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -281,12 +287,12 @@ Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Snuff Out	mmq	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Supreme Verdict	2x2	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Doomskar	pkhm	9p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	sld	694	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Finale of Glory	war	12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Starnheim Unleashed	khm	294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Urza, Lord High Artificer	dmr	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ugin, the Ineffable	pwar	2s★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	plst	NPH-42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -340,6 +346,7 @@ Myr Battlesphere	c13	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ugin, the Spirit Dragon	pm21	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skymarcher Aspirant	rix	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Neutralize	iko	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dragonkin Berserker	prm	88310	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Collective Defiance	sir	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfwillow Haven	thb	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Settle the Wreckage	pxln	34p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -352,10 +359,3 @@ Kazandu Mammoth	znr	305	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lodestone Golem	brr	29	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Solemn Simulacrum	mrd	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Realm-Cloaked Giant	eld	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Waker of Waves	m21	84	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Karn, Scion of Urza	dom	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Phantasmal Image	m12	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wildfire	9ed	228★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Faithless Looting	pidw	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Worn Powerstone	40k	263★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
