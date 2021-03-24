@@ -196,6 +196,28 @@ Usher of the Fallen	khm	35	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Spirit W
 Clarion Spirit	khm	6	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit
 Bloodsky Berserker	khm	80	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Berserker
 Ulcerate	m15	119	Premium Owned	~~	Foil	1	B	~~	~~	Instant
+Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
+Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	Hybrid	~~	Land
+Bloodstained Mire	ktk	230	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
+Wooded Foothills	ktk	249	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
+Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
+Marsh Flats	mh2	437	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
+Verdant Catacombs	mh2	440	Premium Owned	~~	Foil	0	B,G	Hybrid	~~	Land
+Misty Rainforest	mh2	438	Premium Owned	~~	Foil	0	U,G	Hybrid	~~	Land
+Scalding Tarn	zen	223	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
+Arid Mesa	zen	211	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
+Hallowed Fountain	rna	251	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
+Watery Grave	grn	259	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
+Blood Crypt	rna	245	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
+Stomping Ground	rna	259	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
+Temple Garden	grn	258	Owned	~~	Non-foil	0	W,G	Multicolored	~~	Land — Forest Plains
+Godless Shrine	rna	248	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
+Overgrown Tomb	grn	253	Owned	~~	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
+Breeding Pool	rna	246	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
+Steam Vents	grn	257	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
+Sacred Foundry	grn	254	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
+Fetid Pools	akh	243	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
+Irrigated Farmland	akh	245	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brimaz, King of Oreskos	sld	497	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strip Mine	rin	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -311,10 +333,14 @@ Arc Lightning	usg	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	scd	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winter Orb	fbb	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mox Diamond	sth	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chrome Mox	2xm	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lotus Petal	plst	TMP-294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skinrender	pdci	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Upheaval	wc02	cr113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Basalt Monolith	sum	235	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Jeweled Amulet	me2	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Grim Monolith	wc00	jf126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfbriar Elemental	wwk	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesmeric Fiend	ddk	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Izzet Signet	prm	62387	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -333,29 +359,3 @@ Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curator of Mysteries	c20	109	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Abrupt Decay	gk1	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sulfuric Vortex	ema	150	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Indatha Triome	piko	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Raugrin Triome	iko	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Zagoth Triome	prm	80947	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ketria Triome	piko	250s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Elspeth, Sun's Champion	slc	2013	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Grave Titan	prm	62403	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Liliana, Dreadhorde General	sld	510	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Inferno Titan	cm2	109	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dragonlord Atarka	p30a	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Myr Battlesphere	c13	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ugin, the Spirit Dragon	pm21	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Skymarcher Aspirant	rix	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Neutralize	iko	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dragonkin Berserker	prm	88310	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Collective Defiance	sir	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wolfwillow Haven	thb	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Settle the Wreckage	pxln	34p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Glasspool Mimic	prm	83872	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Venser, Shaper Savant	fut	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nullpriest of Oblivion	pznr	118p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ravenous Chupacabra	rix	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Eternal Witness	mma	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kazandu Mammoth	znr	305	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lodestone Golem	brr	29	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Solemn Simulacrum	mrd	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
