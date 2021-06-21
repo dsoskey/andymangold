@@ -228,17 +228,20 @@ Abundant Harvest	sta	48	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
 Dreadhorde Arcanist	tsr	341	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Zombie Wizard
 Deathrite Shaman	rtr	213	Premium Owned	~~	Foil	1	B,G	Hybrid	~~	Creature — Elf Shaman
 Engineered Explosives	5dn	118	Owned	~~	Foil	0	~~	~~	~~	Artifact
-Clever Lumimancer	stx	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Saheeli, Sublime Artificer	pwar	234s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shock	aer	98	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Heartfire Immolator	m21	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Roil Eruption	znr	389	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Oblivion Ring	lrw	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Impulse	wc97	jk34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Chandra, Acolyte of Flame	pm20	126p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Opposition	mp2	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tolarian Academy	usg	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sakura-Tribe Elder	c15	200	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Esper Sentinel	mh2	12	Premium Owned	~~	Foil	1	W	~~	~~	Artifact Creature — Human Soldier
+Murktide Regent	mh2	52	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Dragon
+Tarfire	lrw	194	Premium Owned	~~	Foil	1	R	~~	~~	Tribal Instant — Goblin
+Dragon's Rage Channeler	mh2	121	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Shaman
+Unholy Heat	mh2	145	Premium Owned	~~	Foil	1	R	~~	~~	Instant
+Prismatic Ending	mh2	384	Premium Owned	~~	Foil	1	W	~~	~~	Sorcery
+Thought Scour	dka	52	Premium Owned	~~	Foil	1	U	~~	~~	Instant
+Ragavan, Nimble Pilferer	mh2	138	Proxied	~~	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
+Mishra's Bauble	brr	97	Owned	~~	Foil	0	~~	~~	~~	Artifact
+Kroxa, Titan of Death's Hunger	sld	225	Premium Owned	~~	Foil	2	B,R	~~	~~	Legendary Creature — Elder Giant
+Grist, the Hunger Tide	mh2	202	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
+Lose Focus	mh2	49	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Urza's Saga	mh2	380	Owned	~~	Foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
+Ignoble Hierarch	mh2	414	Owned	~~	Foil	1	G	Green	~~	Creature — Goblin Shaman
 Battle Screech	dmr	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Devoted Druid	2x2	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -247,12 +250,12 @@ Spectral Procession	shm	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hagra Mauling	prm	83874	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tithe Taker	prna	27s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Paradise Druid	afc	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wall of Omens	ddk	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hard Evidence	j21	200	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Council's Judgment	cns	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Night's Whisper	ddm	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bone Shards	mh2	395	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reidane, God of the Worthy	pkhm	21s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Firedrinker Satyr	ths	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sarkhan the Masterless	war	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Magmatic Channeler	pznr	148s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Domri, Anarch of Bolas	war	191★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gideon Blackblade	med	WS2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -275,6 +278,7 @@ Elspeth, Knight-Errant	ala	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hexdrinker	mh1	168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Nissa	ogw	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Teferi, Hero of Dominaria	dom	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Damn	mh2	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phoenix of Ash	thb	319	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	ddr	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winds of Abandon	mh1	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -310,7 +314,7 @@ Krenko, Tin Street Kingpin	war	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Assassin's Trophy	grn	152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Will	hou	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Lore	gvl	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Goblin Cratermaker	grn	103	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Flametongue Yearling	mh2	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daretti, Ingenious Iconoclast	med	GR3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -318,10 +322,11 @@ Baleful Mastery	pstx	64p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire Covenant	sld	271	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar	pkhm	9p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dauthi Voidwalker	mh2	450	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Grief	prm	91251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	sld	694	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Raise the Alarm	md1	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Timeless Dragon	mh2	445	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Starnheim Unleashed	khm	294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Urza, Lord High Artificer	dmr	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ugin, the Ineffable	pwar	2s★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -329,15 +334,15 @@ Phyrexian Metamorph	plst	NPH-42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	stx	356	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Stone	afc	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ophiomancer	cc2	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Declaration in Stone	ncc	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Glorybringer	akh	134	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Solitude	prm	91203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Fury	mh2	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whirler Rogue	gnt	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	prm	57594	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gemrazer	iko	155	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Falkenrath Gorger	sir	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blazing Rootwalla	j21	418	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Progress	40k	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Azorius Signet	khc	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Creativity	c21	269	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dimir Signet	prm	46924	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lava Dart	jud	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	scd	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -346,16 +351,11 @@ Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mox Diamond	sth	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chrome Mox	2xm	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotus Petal	plst	TMP-294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Skinrender	pdci	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Upheaval	wc02	cr113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rankle, Master of Pranks	peld	101p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Subtlety	mh2	309	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jeweled Amulet	me2	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Monolith	wc00	jf126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfbriar Elemental	wwk	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mesmeric Fiend	ddk	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tourach, Dread Cantor	plst	MH2-402	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Izzet Signet	prm	62387	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Restoration	znr	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Prismatic Lens	tsr	272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Everflowing Chalice	f11	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Coalition Relic	a25	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Reclamation Sage	c18	159	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shelldock Isle	sld	437	~~	~~	~~	"""~~"""	~~	~~	~~	~~
