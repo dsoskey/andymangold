@@ -243,7 +243,8 @@ Lose Focus	mh2	49	Premium Owned	~~	Foil	2	U	~~	~~	Instant
 Urza's Saga	mh2	380	Owned	~~	Foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
 Ignoble Hierarch	mh2	414	Owned	~~	Foil	1	G	Green	~~	Creature — Goblin Shaman
 Abrupt Decay	tsr	370	Owned	~~	Foil	2	B,G	~~	~~	Instant
-Battle Screech	dmr	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Luminarch Aspirant	znr	24	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Cleric
+Tarmogoyf	fut	153	Owned	~~	Foil	2	G	~~	~~	Creature — Lhurgoyf
 Devoted Druid	2x2	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spikefield Hazard	znr	166	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -260,7 +261,7 @@ Magmatic Channeler	pznr	148s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Domri, Anarch of Bolas	war	191★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gideon Blackblade	med	WS2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rolling Earthquake	ptk	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Light Up the Stage	afc	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whisperwood Elemental	frf	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Lightscribe	prm	89974	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -358,4 +359,3 @@ Jeweled Amulet	me2	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Monolith	wc00	jf126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wolfbriar Elemental	wwk	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tourach, Dread Cantor	plst	MH2-402	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Izzet Signet	prm	62387	~~	~~	~~	"""~~"""	~~	~~	~~	~~
