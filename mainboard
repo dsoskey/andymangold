@@ -246,18 +246,18 @@ Abrupt Decay	tsr	370	Owned	~~	Foil	2	B,G	~~	~~	Instant
 Luminarch Aspirant	znr	24	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Cleric
 Tarmogoyf	fut	153	Owned	~~	Foil	2	G	~~	~~	Creature — Lhurgoyf
 Traverse the Ulvenwald	soi	234	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
-Sevinne's Reclamation	dmr	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Spikefield Hazard	znr	166	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Spectral Procession	shm	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hagra Mauling	prm	83874	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tithe Taker	prna	27s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Portable Hole	afr	33	Owned	~~	Non-foil	1	W	~~	~~	Artifact
+Den of the Bugbear	afr	254	Owned	~~	Non-foil	0	R	Red	~~	Land
+Cave of the Frost Dragon	afr	253	Owned	~~	Non-foil	0	W	White	~~	Land
+Hive of the Eye Tyrant	afr	258	Owned	~~	Non-foil	0	B	Black	~~	Land
+Dancing Sword	afr	8	Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
 Paradise Druid	afc	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hard Evidence	j21	200	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Council's Judgment	cns	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reidane, God of the Worthy	pkhm	21s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Firedrinker Satyr	ths	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Magmatic Channeler	pznr	148s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Battle Cry Goblin	hbg	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Domri, Anarch of Bolas	war	191★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gideon Blackblade	med	WS2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -277,7 +277,7 @@ Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Adanto Vanguard	xln	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	g11	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth, Knight-Errant	ala	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hexdrinker	mh1	168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ranger Class	afr	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Nissa	ogw	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Teferi, Hero of Dominaria	dom	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Damn	mh2	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -324,7 +324,7 @@ Baleful Mastery	pstx	64p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire Covenant	sld	271	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar	pkhm	9p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dauthi Voidwalker	mh2	450	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Wight	pafr	127s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grief	prm	91251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	sld	694	~~	~~	~~	"""~~"""	~~	~~	~~	~~
