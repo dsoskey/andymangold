@@ -251,7 +251,10 @@ Den of the Bugbear	afr	254	Owned	~~	Non-foil	0	R	Red	~~	Land
 Cave of the Frost Dragon	afr	253	Owned	~~	Non-foil	0	W	White	~~	Land
 Hive of the Eye Tyrant	afr	258	Owned	~~	Non-foil	0	B	Black	~~	Land
 Dancing Sword	afr	8	Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
-Paradise Druid	afc	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Knight of the Reliquary	tsr	379	Not Owned	~~	Non-foil	3	W,G	~~	~~	Creature — Human Knight
+Master of Death	mh2	205	Owned	~~	Non-foil	3	B,U	~~	~~	Creature — Zombie Wizard
+Sprite Dragon	iko	211	Not Owned	~~	Non-foil	2	U,R	~~	~~	Creature — Faerie Dragon
+Scavenging Ooze	plg21	5	Owned	~~	Foil	2	G	~~	~~	Creature — Ooze
 Hard Evidence	j21	200	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Council's Judgment	cns	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -318,6 +321,7 @@ Supreme Will	hou	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Lore	gvl	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daretti, Ingenious Iconoclast	med	GR3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodbraid Elf	prm	102293	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Baleful Mastery	pstx	64p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -355,7 +359,3 @@ Chrome Mox	2xm	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotus Petal	plst	TMP-294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rankle, Master of Pranks	peld	101p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Subtlety	mh2	309	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Jeweled Amulet	me2	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Grim Monolith	wc00	jf126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wolfbriar Elemental	wwk	118	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tourach, Dread Cantor	plst	MH2-402	~~	~~	~~	"""~~"""	~~	~~	~~	~~
