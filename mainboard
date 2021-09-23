@@ -255,14 +255,17 @@ Knight of the Reliquary	tsr	379	Not Owned	~~	Non-foil	3	W,G	~~	~~	Creature — H
 Master of Death	mh2	205	Owned	~~	Non-foil	3	B,U	~~	~~	Creature — Zombie Wizard
 Sprite Dragon	iko	211	Not Owned	~~	Non-foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Scavenging Ooze	plg21	5	Owned	~~	Foil	2	G	~~	~~	Creature — Ooze
-Hard Evidence	j21	200	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Council's Judgment	cns	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bone Shards	mh2	395	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Consider	mid	388	Premium Owned	~~	Foil	1	U	~~	~~	Instant
+Cling to Dust	thb	87	Owned	~~	Foil	1	B	~~	~~	Instant
+Fateful Absence	mid	18	Owned	~~	Non-foil	2	W	~~	~~	Instant
+Infernal Grasp	mid	107	Premium Owned	~~	Foil	2	B	~~	~~	Instant
+Field of the Dead	m20	247	Premium Owned	~~	Foil	0	~~	~~	~~	Land
+Shelldock Isle	lrw	272	Premium Owned	~~	Foil	0	U	Blue	~~	Land
 Reidane, God of the Worthy	pkhm	21s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Firedrinker Satyr	ths	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Battle Cry Goblin	hbg	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Domri, Anarch of Bolas	war	191★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arlinn, the Pack's Hope	prm	94060	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gideon Blackblade	med	WS2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Light Up the Stage	afc	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whisperwood Elemental	frf	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -299,10 +302,12 @@ Hieroglyphic Illumination	akh	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plague Engineer	h1r	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hero's Downfall	cp2	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Earthshaker Khenra	hou	90	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodthirsty Adversary	mid	129	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Wildspeaker	lrw	213	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreadbore	rtr	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hangarback Walker	ori	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Primal Adversary	mid	194	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scrapheap Scrounger	kld	231	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 City of Brass	psus	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -349,13 +354,7 @@ Blazing Rootwalla	j21	418	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Progress	40k	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Azorius Signet	khc	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dimir Signet	prm	46924	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lava Dart	jud	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Play with Fire	mid	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talisman of Dominance	scd	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winter Orb	fbb	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mox Diamond	sth	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Chrome Mox	2xm	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lotus Petal	plst	TMP-294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rankle, Master of Pranks	peld	101p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Subtlety	mh2	309	~~	~~	~~	"""~~"""	~~	~~	~~	~~
