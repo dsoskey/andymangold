@@ -263,11 +263,23 @@ Field of the Dead	m20	247	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Shelldock Isle	lrw	272	Premium Owned	~~	Foil	0	U	Blue	~~	Land
 Flickerwisp	tsr	294	Owned	~~	Foil	3	W	~~	~~	Creature — Elemental
 Falkenrath Pit Fighter	mid	137	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Vampire Warrior
-Battle Cry Goblin	hbg	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Arlinn, the Pack's Hope	prm	94060	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gideon Blackblade	med	WS2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Light Up the Stage	afc	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Magmatic Channeler	znr	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Wizard
+Scourge of the Skyclaves	znr	343	Owned	~~	Foil	2	B	~~	~~	Creature — Demon
+Territorial Kavu	mh2	425	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Kavu
+Skyclave Apparition	znr	322	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Kor Spirit
+Sungold Sentinel	mid	332	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
+Grim Flayer	emn	184	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Human Warrior
+Death's Shadow	wwk	57	Owned	~~	Non-foil	1	B	~~	~~	Creature — Avatar
+Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
+Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
+Restoration Angel	avr	32	Premium Owned	~~	Foil	4	W	~~	~~	Creature — Angel
+Celestial Colonnade	pwwk	133	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land
+Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
+Dragonsguard Elite	stx	376	Premium Owned	~~	Foil	2	G	~~	~~	Creature — Human Druid
+Warden of the First Tree	frf	143	Premium Owned	~~	Foil	1	W,B,G	Hybrid	~~	Creature — Human
+Kess, Dissident Mage	mh1	206	Premium Owned	~~	Foil	4	U,B,R	~~	~~	Legendary Creature — Human Wizard
+Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
+Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Whisperwood Elemental	frf	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Lightscribe	prm	89974	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -325,6 +337,7 @@ Krenko, Tin Street Kingpin	war	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Assassin's Trophy	grn	152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Will	hou	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Lore	gvl	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gush	plst	DD2-27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daretti, Ingenious Iconoclast	med	GR3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodbraid Elf	prm	102293	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -346,16 +359,3 @@ Phyrexian Metamorph	plst	NPH-42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	stx	356	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Stone	afc	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ophiomancer	cc2	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Solitude	prm	91203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fury	mh2	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Whirler Rogue	gnt	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Pia and Kiran Nalaar	prm	57594	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gemrazer	iko	155	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blazing Rootwalla	j21	418	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Progress	40k	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Azorius Signet	khc	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dimir Signet	prm	46924	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Play with Fire	mid	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Dominance	scd	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Winter Orb	fbb	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
