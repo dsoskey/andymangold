@@ -293,8 +293,15 @@ Reanimate	tmp	151	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Spell Snare	dis	33	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Tithe	vis	23	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Dead Weight	isd	96	Premium Owned	~~	Foil	1	B	~~	~~	Enchantment — Aura
-Gideon, Ally of Zendikar	pbfz	29s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Agadeem's Awakening	znr	336	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+The Wandering Emperor	neo	42	Premium Owned	~~	Foil	4	W	~~	~~	Legendary Planeswalker
+Takenuma, Abandoned Mire	neo	416	Not Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
+Lion Sash	neo	26	Premium Owned	~~	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
+Eiganjo, Seat of the Empire	neo	268	Premium Owned	~~	Foil	0	W	White	~~	Legendary Land
+Rabbit Battery	neo	157	Not Owned	~~	Non-foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
+Twinshot Sniper	neo	168	Premium Owned	~~	Foil	2	R	~~	~~	Instant
+Blade of the Oni	neo	453	Not Owned	~~	Non-foil	2	B	~~	~~	Artifact Creature — Equipment Demon
+Swift Reconfiguration	nec	45	Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
+Boseiju, Who Endures	neo	412	Premium Owned	~~	Foil	0	G	Green	~~	Legendary Land
 Ultimate Price	f15	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vivien, Monsters' Advocate	iko	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ulvenwald Oddity	pvow	225s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -331,7 +338,7 @@ Dreadbore	rtr	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hangarback Walker	ori	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Primal Adversary	mid	194	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scrapheap Scrounger	kld	231	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Eater of Virtue	pneo	245s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 City of Brass	psus	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gravecrawler	dka	64	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -340,6 +347,7 @@ Gutterbones	rna	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydroid Krasis	rna	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	7ed	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Reinforced Ronin	neo	323	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Turntimber Symbiosis	znr	215	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Batterskull	nph	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -351,11 +359,3 @@ Gush	plst	DD2-27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Occult Epiphany	voc	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daretti, Ingenious Iconoclast	med	GR3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodbraid Elf	prm	102293	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Isamaru, Hound of Konda	plst	CHK-19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Courser of Kruphix	ea2	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Graf Reaver	dbl	382	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fire Covenant	sld	271	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Doomskar	pkhm	9p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Land Tax	4ed	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
