@@ -308,6 +308,11 @@ Titania, Protector of Argoth	mh2	416	Premium Owned	~~	Foil	5	G	~~	~~	Legendary C
 Lava Dart	jud	94	Premium Owned	~~	Foil	1	R	~~	~~	Instant
 Wolfbriar Elemental	wwk	118	Premium Owned	~~	Foil	4	G	~~	~~	Creature — Elemental
 Lightning Helix	rav	213	Owned	~~	Non-foil	2	R,W	~~	~~	Instant
+Collected Company	dtk	177	Owned	~~	Foil	4	G	~~	~~	Instant
+Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
+Spell Queller	emn	189	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
+Bedlam Reveler	tsr	340	Owned	~~	Foil	2	R	~~	~~	Creature — Devil Horror
+Electrolyze	gpt	111	Owned	~~	Foil	3	U,R	~~	~~	Instant
 Boon of the Wish-Giver	iko	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Adanto Vanguard	xln	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -335,6 +340,7 @@ Hero's Downfall	cp2	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tenacious Underdog	snc	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Earthshaker Khenra	hou	90	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Jadelight Ranger	rix	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Wildspeaker	lrw	213	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreadbore	rtr	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -353,9 +359,3 @@ Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	7ed	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reinforced Ronin	neo	323	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Turntimber Symbiosis	znr	215	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Batterskull	nph	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Chart a Course	xln	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Krenko, Tin Street Kingpin	war	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Assassin's Trophy	grn	152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Supreme Will	hou	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nature's Lore	gvl	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
