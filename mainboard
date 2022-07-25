@@ -313,10 +313,14 @@ Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
 Spell Queller	emn	189	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Bedlam Reveler	tsr	340	Owned	~~	Foil	2	R	~~	~~	Creature — Devil Horror
 Electrolyze	gpt	111	Owned	~~	Foil	3	U,R	~~	~~	Instant
-Boon of the Wish-Giver	iko	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Eternal Witness	tsr	361	Owned	~~	Foil	3	G	~~	~~	Creature — Human Shaman
+Witherbloom Command	stx	248	Owned	~~	Foil	2	B,G	~~	~~	Sorcery
+March of Otherworldly Light	neo	369	Owned	~~	Foil	2	W	~~	~~	Instant
+Mental Note	jud	46	Owned	~~	Foil	1	U	~~	~~	Instant
+Ethereal Forager	c20	34	Owned	~~	Non-foil	2	U	~~	~~	Creature — Elemental Whale
 Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Adanto Vanguard	xln	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Fire and Ice	g11	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Greatsword of Tyr	clb	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth, Knight-Errant	ala	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	afr	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Nissa	ogw	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -342,7 +346,7 @@ Earthshaker Khenra	hou	90	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadelight Ranger	rix	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Garruk Wildspeaker	lrw	213	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Garruk, Unleashed	m21	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreadbore	rtr	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yuriko, the Tiger's Shadow	c18	52	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hangarback Walker	ori	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -355,7 +359,3 @@ Gravecrawler	dka	64	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodsoaked Champion	ktk	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gutterbones	rna	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydroid Krasis	rna	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Pyroclasm	7ed	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Reinforced Ronin	neo	323	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Turntimber Symbiosis	znr	215	~~	~~	~~	"""~~"""	~~	~~	~~	~~
