@@ -70,7 +70,7 @@ Abrade	vow	139	Premium Owned	~~	Foil	2	R	~~	~~	Instant
 Magma Jet	5dn	73	Premium Owned	~~	Foil	2	R	~~	~~	Instant
 Firebolt	ody	193	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Flame Slash	roe	145	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
-Forked Bolt	roe	146	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
+Forked Bolt	roe	146	Owned	~~	Foil	1	R	~~	~~	Sorcery
 Arc Trail	som	81	Premium Owned	~~	Foil	2	R	~~	~~	Sorcery
 Fiery Confluence	c15	26	Owned	~~	Non-foil	4	R	~~	~~	Sorcery
 Arbor Elf	wwk	95	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
@@ -125,7 +125,7 @@ Figure of Destiny	pd2	5	Premium Owned	~~	Foil	1	W,R	Hybrid	~~	Creature — Kithk
 Bonesplitter	mrd	146	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Retrofitter Foundry	c18	57	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Sensei's Divining Top	chk	268	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact
-Skullclamp	sld	1112	Owned	~~	Non-foil	1	~~	~~	~~	Artifact — Equipment
+Skullclamp	sld	1112	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Umezawa's Jitte	bok	163	Premium Owned	~~	Foil	2	~~	~~	~~	Legendary Artifact — Equipment
 Grafted Wargear	5dn	126	Premium Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 Bomat Courier	kld	199	Premium Owned	~~	Foil	1	~~	Red	~~	Artifact Creature — Construct
@@ -154,7 +154,7 @@ Giant Killer	eld	275	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Peasant
 Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
 Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
-Primordial Mist	c18	12	Not Owned	~~	Non-foil	5	U	~~	~~	Enchantment
+Primordial Mist	c18	12	Owned	~~	Non-foil	5	U	~~	~~	Enchantment
 Elspeth, Sun's Nemesis	thb	255	Premium Owned	~~	Foil	4	W	~~	~~	Legendary Planeswalker — Elspeth
 Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
 Unearth	ulg	72	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
@@ -179,7 +179,7 @@ Eidolon of the Great Revel	jou	94	Owned	~~	Foil	2	R	~~	~~	Enchantment Creature �
 Magmatic Sinkhole	mh1	135	Owned	~~	Foil	1	R	~~	~~	Instant
 Horizon Canopy	ima	240	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
 Golos, Tireless Pilgrim	m20	226	Premium Owned	~~	Foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
-Lurrus of the Dream-Den	iko	226	Owned	~~	Non-foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
+Lurrus of the Dream-Den	iko	355	Owned	~~	Foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
 Cryptic Command	ppro	2020-1	Owned	~~	Foil	4	U	~~	~~	Instant
 Thraben Inspector	soi	44	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
 Faerie Guidemother	eld	274	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Faerie
@@ -246,14 +246,14 @@ Abrupt Decay	tsr	370	Owned	~~	Foil	2	B,G	~~	~~	Instant
 Luminarch Aspirant	znr	24	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Cleric
 Tarmogoyf	fut	153	Owned	~~	Foil	2	G	~~	~~	Creature — Lhurgoyf
 Traverse the Ulvenwald	soi	234	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
-Portable Hole	afr	33	Owned	~~	Non-foil	1	W	~~	~~	Artifact
-Den of the Bugbear	afr	254	Owned	~~	Non-foil	0	R	Red	~~	Land
-Cave of the Frost Dragon	afr	253	Owned	~~	Non-foil	0	W	White	~~	Land
-Hive of the Eye Tyrant	afr	258	Owned	~~	Non-foil	0	B	Black	~~	Land
+Portable Hole	afr	33	Owned	~~	Foil	1	W	~~	~~	Artifact
+Den of the Bugbear	afr	254	Owned	~~	Foil	0	R	Red	~~	Land
+Cave of the Frost Dragon	afr	253	Owned	~~	Foil	0	W	White	~~	Land
+Hive of the Eye Tyrant	afr	258	Owned	~~	Foil	0	B	Black	~~	Land
 Dancing Sword	afr	8	Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
-Knight of the Reliquary	tsr	379	Not Owned	~~	Non-foil	3	W,G	~~	~~	Creature — Human Knight
-Master of Death	mh2	205	Owned	~~	Non-foil	3	B,U	~~	~~	Creature — Zombie Wizard
-Sprite Dragon	iko	211	Not Owned	~~	Non-foil	2	U,R	~~	~~	Creature — Faerie Dragon
+Knight of the Reliquary	tsr	379	Owned	~~	Foil	3	W,G	~~	~~	Creature — Human Knight
+Master of Death	mh2	205	Owned	~~	Foil	3	B,U	~~	~~	Creature — Zombie Wizard
+Sprite Dragon	iko	211	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Scavenging Ooze	plg21	5	Owned	~~	Foil	2	G	~~	~~	Creature — Ooze
 Consider	mid	388	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Cling to Dust	thb	87	Owned	~~	Foil	1	B	~~	~~	Instant
@@ -265,7 +265,7 @@ Flickerwisp	tsr	294	Owned	~~	Foil	3	W	~~	~~	Creature — Elemental
 Falkenrath Pit Fighter	mid	137	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Vampire Warrior
 Magmatic Channeler	znr	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Wizard
 Scourge of the Skyclaves	znr	343	Owned	~~	Foil	2	B	~~	~~	Creature — Demon
-Territorial Kavu	mh2	425	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Kavu
+Territorial Kavu	mh2	425	Owned	~~	Foil	2	G,R	~~	~~	Creature — Kavu
 Skyclave Apparition	znr	322	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Kor Spirit
 Sungold Sentinel	mid	332	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
 Grim Flayer	emn	184	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Human Warrior
@@ -273,7 +273,7 @@ Death's Shadow	wwk	57	Owned	~~	Non-foil	1	B	~~	~~	Creature — Avatar
 Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
 Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
 Restoration Angel	avr	32	Premium Owned	~~	Foil	4	W	~~	~~	Creature — Angel
-Celestial Colonnade	pwwk	133	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land
+Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
 Dragonsguard Elite	stx	376	Premium Owned	~~	Foil	2	G	~~	~~	Creature — Human Druid
 Warden of the First Tree	frf	143	Premium Owned	~~	Foil	1	W,B,G	Hybrid	~~	Creature — Human
@@ -294,12 +294,12 @@ Spell Snare	dis	33	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Tithe	vis	23	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Dead Weight	isd	96	Premium Owned	~~	Foil	1	B	~~	~~	Enchantment — Aura
 The Wandering Emperor	neo	42	Premium Owned	~~	Foil	4	W	~~	~~	Legendary Planeswalker
-Takenuma, Abandoned Mire	neo	416	Not Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
+Takenuma, Abandoned Mire	neo	416	Owned	~~	Foil	0	B	Black	~~	Legendary Land
 Lion Sash	neo	26	Premium Owned	~~	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Eiganjo, Seat of the Empire	neo	268	Premium Owned	~~	Foil	0	W	White	~~	Legendary Land
-Rabbit Battery	neo	157	Not Owned	~~	Non-foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
+Rabbit Battery	neo	157	Owned	~~	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
 Twinshot Sniper	neo	168	Premium Owned	~~	Foil	2	R	~~	~~	Instant
-Blade of the Oni	neo	453	Not Owned	~~	Non-foil	2	B	~~	~~	Artifact Creature — Equipment Demon
+Blade of the Oni	neo	453	Owned	~~	Non-foil	2	B	~~	~~	Artifact Creature — Equipment Demon
 Swift Reconfiguration	nec	45	Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
 Boseiju, Who Endures	neo	412	Premium Owned	~~	Foil	0	G	Green	~~	Legendary Land
 Lethal Scheme	pncc	36p	Owned	~~	Foil	4	B	~~	~~	Instant
