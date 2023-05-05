@@ -1,7 +1,6 @@
 Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	TypeLine
 Avacyn's Judgment	c19	134	Owned	~~	Non-foil	2	R	~~	~~	Sorcery
 Quicken	m14	68	Owned	~~	Non-foil	1	U	~~	~~	Instant
-Lightning Phoenix	jmp	21	Owned	~~	Non-foil	3	R	~~	~~	Creature — Phoenix
 Darkblast	rav	82	Owned	~~	Non-foil	1	B	~~	~~	Instant
 Drown in the Loch	sld	270	Owned	~~	Non-foil	2	B,U	~~	~~	Instant
 Ox of Agonas	nec	108	Owned	~~	Non-foil	5	R	~~	~~	Creature — Ox
@@ -13,7 +12,6 @@ Kappa Cannoneer	nec	14	Owned	~~	Non-foil	6	U	~~	~~	Artifact Creature — Turtle 
 Serra Avenger	tsr	41	Owned	~~	Non-foil	2	W	~~	~~	Creature — Angel
 Bloodbraid Elf	pc2	84	Owned	~~	Non-foil	4	G,R	~~	~~	Creature — Elf Berserker
 Khenra Spellspear	mom	151	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wrenn and Realmbreaker	mom	217	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	mbs	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life from the Loam	rav	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -24,3 +22,7 @@ Hogaak, Arisen Necropolis	mh1	202	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Crop Rotation	ulg	98	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Intuition	tmp	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Slogurk, the Overslime	mid	324	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Defile	h1r	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Repeal	tsr	317	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mutagenic Growth	nph	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
