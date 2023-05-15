@@ -72,13 +72,12 @@ Firebolt	ody	193	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Flame Slash	roe	145	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Forked Bolt	roe	146	Owned	~~	Foil	1	R	~~	~~	Sorcery
 Arc Trail	som	81	Premium Owned	~~	Foil	2	R	~~	~~	Sorcery
-Fiery Confluence	c15	26	Owned	~~	Non-foil	4	R	~~	~~	Sorcery
 Arbor Elf	wwk	95	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Avacyn's Pilgrim	isd	170	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Monk
 Birds of Paradise	7ed	231★	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Bird
 Elves of Deep Shadow	rav	161	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Gilded Goose	eld	160	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Bird
-Joraga Treespeaker	roe	190	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
+Exploration	usg	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	fnm	11	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	j12	3	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Druid
 Lotus Cobra	pgpx	2012b	Premium Owned	~~	Foil	2	G	~~	~~	Creature — Snake
@@ -182,7 +181,6 @@ Lurrus of the Dream-Den	iko	355	Owned	~~	Foil	3	W,B	Hybrid	~~	Legendary Creature
 Cryptic Command	ppro	2020-1	Owned	Size: -2,Size: -1,Size: Neutral	Foil	4	U	~~	~~	Instant
 Thraben Inspector	tsr	305	Premium Owned	Size: +1	Foil	1	W	~~	~~	Creature — Human Soldier
 Faerie Guidemother	eld	274	Premium Owned	Size: +1	Foil	1	W	~~	~~	Creature — Faerie
-Emeria's Call	pznr	12s	Premium Owned	Size: Neutral,Size: +1	Foil	0	W	White	~~	Land
 Sea Gate Stormcaller	znr	77	Owned	Size: Neutral,Size: +1	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Disfigure	zen	87	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Bloodchief's Thirst	znr	94	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
@@ -247,14 +245,12 @@ Portable Hole	afr	33	Owned	Size: -1	Foil	1	W	~~	~~	Artifact
 Den of the Bugbear	afr	254	Owned	~~	Foil	0	R	Red	~~	Land
 Cave of the Frost Dragon	afr	253	Owned	Size: Neutral	Foil	0	W	White	~~	Land
 Hive of the Eye Tyrant	afr	258	Owned	~~	Foil	0	B	Black	~~	Land
-Dancing Sword	afr	8	Owned	Size: Neutral	Non-foil	2	W	~~	~~	Artifact — Equipment
 Knight of the Reliquary	tsr	379	Owned	~~	Foil	3	W,G	~~	~~	Creature — Human Knight
 Master of Death	mh2	205	Owned	~~	Foil	3	B,U	~~	~~	Creature — Zombie Wizard
 Sprite Dragon	iko	211	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Scavenging Ooze	plg21	5	Owned	~~	Foil	2	G	~~	~~	Creature — Ooze
 Consider	mid	388	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Instant
 Cling to Dust	thb	87	Owned	~~	Foil	1	B	~~	~~	Instant
-Fateful Absence	mid	18	Owned	Size: -1	Non-foil	2	W	~~	~~	Instant
 Infernal Grasp	mid	107	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Field of the Dead	m20	247	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Shelldock Isle	lrw	272	Premium Owned	Size: Neutral,Size: +1	Foil	0	U	Blue	~~	Land
@@ -265,7 +261,7 @@ Territorial Kavu	mh2	425	Owned	~~	Foil	2	G,R	~~	~~	Creature — Kavu
 Skyclave Apparition	znr	322	Premium Owned	Size: -1,Size: Ambiguous	Foil	3	W	~~	~~	Creature — Kor Spirit
 Sungold Sentinel	mid	332	Premium Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Creature — Human Soldier
 Grim Flayer	emn	184	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Human Warrior
-Death's Shadow	wwk	57	Owned	~~	Non-foil	1	B	~~	~~	Creature — Avatar
+Death's Shadow	sld	474	Owned	~~	Foil	1	B	~~	~~	Creature — Avatar
 Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
 Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
 Restoration Angel	avr	32	Premium Owned	Size: Neutral	Foil	4	W	~~	~~	Creature — Angel
@@ -287,7 +283,7 @@ Cemetery Prowler	vow	191	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Wolf
 Pyrite Spellbomb	mma	212	Premium Owned	~~	Foil	1	R	~~	~~	Artifact
 Reanimate	tmp	151	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Spell Snare	dis	33	Premium Owned	Size: -2	Foil	1	U	~~	~~	Instant
-Tithe	vis	23	Owned	Size: Neutral,Size: +1	Non-foil	1	W	~~	~~	Instant
+Life from the Loam	rav	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dead Weight	isd	96	Premium Owned	~~	Foil	1	B	~~	~~	Enchantment — Aura
 The Wandering Emperor	neo	42	Premium Owned	Size: +1,Size: +N,Size: -1,Size: -N	Foil	4	W	~~	~~	Legendary Planeswalker
 Takenuma, Abandoned Mire	neo	416	Owned	~~	Foil	0	B	Black	~~	Legendary Land
@@ -319,15 +315,13 @@ Otawara, Soaring City	neo	271	Owned	Size: Neutral	Foil	0	U	Blue	~~	Legendary Lan
 Mawloc	40k	133	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Tyranid
 Evolved Sleeper	dmu	402	Owned	~~	Foil	1	B	~~	~~	Creature — Human
 Guardian of New Benalia	dmu	19	Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Creature — Human Soldier
-Shivan Devastator	dmu	143	Owned	~~	Foil	4	R	~~	~~	Creature — Dragon Hydra
 Cut Down	dmu	432	Owned	~~	Foil	1	B	~~	~~	Instant
 Quirion Beastcaller	dmu	175	Owned	~~	Foil	2	G	~~	~~	Creature — Dryad Warrior
 Electrostatic Infantry	dmu	122	Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Wizard
-Manamorphose	shm	211	Owned	~~	Non-foil	2	R,G	Hybrid	~~	Instant
+Manamorphose	shm	211	Owned	~~	Foil	2	R,G	Hybrid	~~	Instant
 Timeless Dragon	mh2	388	Owned	Size: +1	Foil	5	W	~~	~~	Creature — Dragon
 Archmage's Charm	h1r	7	Owned	Size: -2,Size: +1,Size: -1	Foil	3	U	~~	~~	Instant
 Teferi, Temporal Pilgrim	bro	66	Owned	Size: +N	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
-Elspeth, Sun's Champion	ths	9	Owned	Size: +3,Size: +N,Size: -N	Foil	6	W	~~	~~	Legendary Planeswalker — Elspeth
 Dress Down	pmh2	39s	Owned	Size: Neutral	Foil	2	U	~~	~~	Enchantment
 Supreme Verdict	prtr	201★	Owned	~~	Foil	4	W,U	~~	~~	Sorcery
 Faerie Vandal	eld	45	Owned	Size: Neutral	Foil	2	U	~~	~~	Creature — Faerie Rogue
@@ -350,7 +344,6 @@ Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thalia and The Gitrog Monster	mom	316	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Wildfire Awakener	moc	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	pori	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Winota, Joiner of Forces	piko	216p	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -359,3 +352,10 @@ Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Warrior	mom	185	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Courser of Kruphix	bng	119	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Repeal	tsr	317	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drown in the Loch	sld	270	Owned	~~	Non-foil	2	B,U	~~	~~	Instant
+Mutagenic Growth	nph	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Defile	h1r	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
