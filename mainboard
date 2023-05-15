@@ -283,7 +283,7 @@ Cemetery Prowler	vow	191	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Wolf
 Pyrite Spellbomb	mma	212	Premium Owned	~~	Foil	1	R	~~	~~	Artifact
 Reanimate	tmp	151	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Spell Snare	dis	33	Premium Owned	Size: -2	Foil	1	U	~~	~~	Instant
-Life from the Loam	rav	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Life from the Loam	rav	172	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dead Weight	isd	96	Premium Owned	~~	Foil	1	B	~~	~~	Enchantment — Aura
 The Wandering Emperor	neo	42	Premium Owned	Size: +1,Size: +N,Size: -1,Size: -N	Foil	4	W	~~	~~	Legendary Planeswalker
 Takenuma, Abandoned Mire	neo	416	Owned	~~	Foil	0	B	Black	~~	Legendary Land
@@ -352,10 +352,10 @@ Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomskar Warrior	mom	185	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Courser of Kruphix	bng	119	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bone Shards	mh2	395	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Courser of Kruphix	bng	119	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Repeal	tsr	317	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Drown in the Loch	sld	270	Owned	~~	Non-foil	2	B,U	~~	~~	Instant
-Mutagenic Growth	nph	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Defile	h1r	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Drown in the Loch	sld	270	Owned	~~	Foil	2	B,U	~~	~~	Instant
+Mutagenic Growth	nph	116	Owned	~~	Foil	"""0"""	~~	~~	~~	~~
+Defile	h1r	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
