@@ -196,7 +196,7 @@ Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
 Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	Hybrid	~~	Land
 Bloodstained Mire	ktk	230	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
 Wooded Foothills	ktk	249	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
-Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
+Windswept Heath	ktk	248	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Marsh Flats	mh2	437	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Verdant Catacombs	mh2	440	Premium Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Misty Rainforest	mh2	438	Premium Owned	~~	Foil	0	U,G	Hybrid	~~	Land
@@ -275,7 +275,7 @@ Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	uma	128	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Briarbridge Tracker	mid	361	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Human Scout
-Hopeful Initiate	vow	350	Premium Owned	Size: Neutral,Size: Ambiguous	Foil	1	W	~~	~~	Creature — Human Warlock
+Hopeful Initiate	vow	20	Premium Owned	Size: Neutral,Size: Ambiguous	Foil	1	W	~~	~~	Creature — Human Warlock
 Dread Fugue	vow	107	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
 Primeval Titan	m11	192	Premium Owned	~~	Foil	6	G	~~	~~	Creature — Giant
