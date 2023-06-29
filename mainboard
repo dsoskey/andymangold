@@ -1,44 +1,44 @@
 Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	TypeLine
-Dauntless Bodyguard	dom	14	Premium Owned	Size: Neutral	Foil	1	W	~~	~~	Creature — Human Knight
-Giver of Runes	h1r	3	Premium Owned	Size: Neutral	Foil	1	W	~~	~~	Creature — Kor Cleric
-Kytheon, Hero of Akros	ori	23	Owned	Size: Neutral	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier 
-Legion's Landing	pxtc	22	Premium Owned	Size: +1	Foil	1	W	~~	~~	Creature
-Mother of Runes	ulg	14	Premium Owned	Size: Neutral	Foil	1	W	~~	~~	Creature — Human Cleric
-Student of Warfare	roe	47	Premium Owned	Size: Neutral	Foil	1	W	~~	~~	Creature — Human Knight
-Selfless Spirit	pemn	40s	Premium Owned	Size: Neutral	Foil	2	W	~~	~~	Creature — Spirit Cleric
-Stoneforge Mystic	pgpx	2016	Premium Owned	Size: +1	Foil	2	W	~~	~~	Creature — Kor Artificer
-Thalia, Guardian of Thraben	dka	24	Premium Owned	Size: Neutral	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
-Monastery Mentor	frf	20	Premium Owned	Size: +N	Foil	3	W	~~	~~	Creature — Human Monk
-Thalia, Heretic Cathar	emn	46	Premium Owned	Size: Neutral	Foil	3	W	~~	~~	Legendary Creature — Human Soldier
-Path to Exile	pdci	24	Premium Owned	Size: -1	Foil	1	W	~~	~~	Instant
-Swords to Plowshares	f01	6	Premium Owned	Size: -2	Foil	1	W	~~	~~	Instant
-Unexpectedly Absent	c13	25	Owned	Size: -2	Non-foil	2	W	~~	~~	Instant
-Balance	g04	2	Premium Owned	Size: -N	Foil	2	W	~~	~~	Sorcery
-Wrath of God	7ed	57★	Premium Owned	Size: -N	Foil	4	W	~~	~~	Sorcery
-Jace, Vryn's Prodigy	ori	60	Premium Owned	Size: Neutral,Size: +N	Foil	2	U	~~	~~	Legendary Creature — Human Wizard 
-Snapcaster Mage	isd	78	Premium Owned	Size: +1	Foil	2	U	~~	~~	Creature — Human Wizard
-Thing in the Ice	soi	92	Premium Owned	Size: Neutral,Size: -N	Foil	2	U	~~	~~	Creature — Horror 
-Vendilion Clique	mor	55	Premium Owned	Size: Neutral	Foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
-Jace, the Mind Sculptor	wwk	31	Owned	Size: +N,Size: -N	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
-Brainstorm	mmq	61	Owned	Size: Neutral	Foil	1	U	~~	~~	Instant
-Force Spike	7ed	76★	Premium Owned	Size: -2	Foil	1	U	~~	~~	Instant
-Opt	inv	64	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Instant
-Spell Pierce	mm3	51	Premium Owned	Size: -2	Foil	1	U	~~	~~	Instant
-Condescend	5dn	27	Premium Owned	Size: -2	Foil	2	U	~~	~~	Instant
-Counterspell	mmq	69	Premium Owned	Size: -2	Foil	2	U	~~	~~	Instant
-Daze	nem	30	Premium Owned	Size: -2	Foil	0	U	~~	~~	Instant
-Mana Leak	pal02	5	Premium Owned	Size: -2	Foil	2	U	~~	~~	Instant
-Memory Lapse	g99	1	Premium Owned	Size: -2	Foil	2	U	~~	~~	Instant
-Miscalculation	ulg	36	Premium Owned	Size: Neutral,Size: -2	Foil	2	U	~~	~~	Instant
-Negate	pm20	69	Premium Owned	Size: -2	Foil	2	U	~~	~~	Instant
-Remand	tsr	316	Premium Owned	Size: Neutral	Foil	2	U	~~	~~	Instant
-Mystic Confluence	j16	5	Premium Owned	Size: -2,Size: -3,Size: -4,Size: -1,Size: +2,Size: +1,Size: Neutral	Foil	5	U	~~	~~	Instant
-Dig Through Time	plg21	2	Premium Owned	Size: +1	Foil	2	U	~~	~~	Instant
-Ponder	m12	73	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Sorcery
-Preordain	m11	70	Owned	Size: Neutral	Foil	1	U	~~	~~	Sorcery
-Serum Visions	sld	32	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Sorcery
-Sleight of Hand	7ed	98★	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Sorcery
-Treasure Cruise	tsr	319	Premium Owned	Size: +2	Foil	1	U	~~	~~	Sorcery
+Dauntless Bodyguard	dom	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
+Giver of Runes	h1r	3	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Kor Cleric
+Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier 
+Legion's Landing	pxtc	22	Premium Owned	~~	Foil	1	W	~~	~~	Creature
+Mother of Runes	ulg	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Cleric
+Student of Warfare	roe	47	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
+Selfless Spirit	pemn	40s	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit Cleric
+Stoneforge Mystic	pgpx	2016	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Kor Artificer
+Thalia, Guardian of Thraben	dka	24	Premium Owned	~~	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
+Monastery Mentor	frf	20	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Human Monk
+Thalia, Heretic Cathar	emn	46	Premium Owned	~~	Foil	3	W	~~	~~	Legendary Creature — Human Soldier
+Path to Exile	pdci	24	Premium Owned	~~	Foil	1	W	~~	~~	Instant
+Swords to Plowshares	f01	6	Premium Owned	~~	Foil	1	W	~~	~~	Instant
+Unexpectedly Absent	c13	25	Owned	~~	Non-foil	2	W	~~	~~	Instant
+Balance	g04	2	Premium Owned	~~	Foil	2	W	~~	~~	Sorcery
+Wrath of God	7ed	57★	Premium Owned	~~	Foil	4	W	~~	~~	Sorcery
+Jace, Vryn's Prodigy	ori	60	Premium Owned	~~	Foil	2	U	~~	~~	Legendary Creature — Human Wizard 
+Snapcaster Mage	isd	78	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Human Wizard
+Thing in the Ice	soi	92	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Horror 
+Vendilion Clique	mor	55	Premium Owned	~~	Foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
+Jace, the Mind Sculptor	wwk	31	Owned	~~	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
+Brainstorm	mmq	61	Owned	~~	Foil	1	U	~~	~~	Instant
+Force Spike	7ed	76★	Premium Owned	~~	Foil	1	U	~~	~~	Instant
+Opt	inv	64	Premium Owned	~~	Foil	1	U	~~	~~	Instant
+Spell Pierce	mm3	51	Premium Owned	~~	Foil	1	U	~~	~~	Instant
+Condescend	5dn	27	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Counterspell	mmq	69	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Daze	nem	30	Premium Owned	~~	Foil	0	U	~~	~~	Instant
+Mana Leak	pal02	5	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Memory Lapse	g99	1	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Miscalculation	ulg	36	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Negate	pm20	69	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Remand	tsr	316	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Mystic Confluence	j16	5	Premium Owned	~~	Foil	5	U	~~	~~	Instant
+Dig Through Time	plg21	2	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Ponder	m12	73	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
+Preordain	m11	70	Owned	~~	Foil	1	U	~~	~~	Sorcery
+Serum Visions	sld	32	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
+Sleight of Hand	7ed	98★	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
+Treasure Cruise	tsr	319	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
 Bitterblossom	mor	58	Premium Owned	~~	Foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Dark Confidant	g11	6	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Wizard
 Kitesail Freebooter	xln	110	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Pirate
@@ -146,15 +146,15 @@ Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Wooded Foothills	ons	330	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
 Dismember	nph	57	Premium Owned	~~	Foil	1	~~	~~	~~	Instant
 Gitaxian Probe	nph	35	Premium Owned	~~	Foil	0	~~	~~	~~	Sorcery
-Giant Killer	eld	275	Premium Owned	Size: +1	Foil	1	W	~~	~~	Creature — Human Peasant 
-Brazen Borrower	eld	281	Premium Owned	Size: Neutral	Foil	2	U	~~	~~	Instant — Adventure
+Giant Killer	eld	275	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Peasant 
+Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
 Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
-Primordial Mist	c18	12	Owned	Size: +N	Non-foil	5	U	~~	~~	Enchantment
+Primordial Mist	c18	12	Owned	~~	Non-foil	5	U	~~	~~	Enchantment
 Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
 Unearth	ulg	72	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
-Censor	akh	46	Premium Owned	Size: Neutral,Size: -2	Foil	2	U	~~	~~	Instant
-Oust	roe	40	Owned	Size: -2	Foil	1	W	~~	~~	Sorcery
+Censor	akh	46	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Oust	roe	40	Owned	~~	Foil	1	W	~~	~~	Sorcery
 Waterlogged Grove	mh1	249	Owned	~~	Non-foil	0	U,G	Hybrid	~~	Land
 Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
 Silent Clearing	mh1	246	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
@@ -164,28 +164,28 @@ Mutavault	pgpx	2018	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Stonecoil Serpent	peld	235p	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact Creature — Snake
 Knight of the Ebon Legion	m20	105	Premium Owned	~~	Foil	1	B	~~	~~	Creature — Vampire Knight
 Rimrock Knight	eld	294	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Knight
-Seasoned Hallowblade	m21	34	Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Creature — Human Warrior
-Shark Typhoon	iko	319	Owned	Size: Neutral,Size: +N	Foil	6	U	~~	~~	Enchantment
-Force of Will	ema	49	Premium Owned	Size: -2,Size: -3	Foil	0	U	~~	~~	Instant
-Force of Negation	mh1	52	Owned	Size: -2,Size: -3	Foil	0	U	~~	~~	Instant
+Seasoned Hallowblade	m21	34	Owned	~~	Foil	2	W	~~	~~	Creature — Human Warrior
+Shark Typhoon	iko	319	Owned	~~	Foil	6	U	~~	~~	Enchantment
+Force of Will	ema	49	Premium Owned	~~	Foil	0	U	~~	~~	Instant
+Force of Negation	mh1	52	Owned	~~	Foil	0	U	~~	~~	Instant
 Heartless Act	iko	91	Owned	~~	Foil	2	B	~~	~~	Instant
 Eliminate	m21	97	Owned	~~	Foil	2	B	~~	~~	Instant
 Eidolon of the Great Revel	jou	94	Owned	~~	Foil	2	R	~~	~~	Enchantment Creature — Spirit
 Horizon Canopy	ima	240	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
 Golos, Tireless Pilgrim	m20	226	Premium Owned	~~	Foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Lurrus of the Dream-Den	iko	355	Owned	~~	Foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
-Cryptic Command	ppro	2020-1	Owned	Size: -2,Size: -1,Size: Neutral	Foil	4	U	~~	~~	Instant
-Thraben Inspector	tsr	305	Premium Owned	Size: +1	Foil	1	W	~~	~~	Creature — Human Soldier
-Faerie Guidemother	eld	274	Premium Owned	Size: +1	Foil	1	W	~~	~~	Creature — Faerie
-Sea Gate Stormcaller	znr	77	Owned	Size: Neutral,Size: +1	Non-foil	2	U	~~	~~	Creature — Human Wizard
+Cryptic Command	ppro	2020-1	Owned	~~	Foil	4	U	~~	~~	Instant
+Thraben Inspector	tsr	305	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
+Faerie Guidemother	eld	274	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Faerie
+Sea Gate Stormcaller	znr	77	Owned	~~	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Disfigure	zen	87	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Bloodchief's Thirst	znr	94	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Shatterskull Smashing	znr	161	Premium Owned	~~	Foil	0	R	Red	~~	Land
 Explore	wwk	99	Premium Owned	~~	Foil	2	G	~~	~~	Sorcery
 Seal of Fire	nem	98	Premium Owned	~~	Foil	1	R	~~	~~	Enchantment
-Portent	ice	90	Owned	Size: Neutral	Non-foil	1	U	~~	~~	Sorcery
+Portent	ice	90	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Esika's Chariot	khm	315	Premium Owned	~~	Foil	4	G	~~	~~	Legendary Artifact — Vehicle
-Clarion Spirit	khm	6	Premium Owned	Size: +N	Foil	2	W	~~	~~	Creature — Spirit
+Clarion Spirit	khm	6	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit
 Bloodsky Berserker	khm	80	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Berserker
 Ulcerate	m15	119	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
@@ -210,7 +210,7 @@ Steam Vents	grn	257	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Moun
 Sacred Foundry	grn	254	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Fetid Pools	akh	243	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Irrigated Farmland	akh	245	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
-Elite Spellbinder	stx	17	Premium Owned	Size: Neutral	Foil	3	W	~~	~~	Creature — Human Cleric
+Elite Spellbinder	stx	17	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Human Cleric
 Wrenn and Six	2x2	296	Owned	~~	Foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Sedgemoor Witch	stx	306	Premium Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
 Vanishing Verse	stx	354	Premium Owned	~~	Foil	2	W,B	~~	~~	Instant
@@ -218,48 +218,48 @@ Abundant Harvest	sta	48	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
 Dreadhorde Arcanist	tsr	341	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Zombie Wizard
 Deathrite Shaman	rtr	213	Premium Owned	~~	Foil	1	B,G	Hybrid	~~	Creature — Elf Shaman
 Engineered Explosives	5dn	118	Owned	~~	Foil	0	~~	~~	~~	Artifact
-Esper Sentinel	mh2	12	Premium Owned	Size: Neutral	Foil	1	W	~~	~~	Artifact Creature — Human Soldier
-Murktide Regent	mh2	52	Premium Owned	Size: Neutral	Foil	2	U	~~	~~	Creature — Dragon
+Esper Sentinel	mh2	12	Premium Owned	~~	Foil	1	W	~~	~~	Artifact Creature — Human Soldier
+Murktide Regent	mh2	52	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Dragon
 Tarfire	lrw	194	Premium Owned	~~	Foil	1	R	~~	~~	Tribal Instant — Goblin
 Dragon's Rage Channeler	mh2	121	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Shaman
 Unholy Heat	mh2	145	Premium Owned	~~	Foil	1	R	~~	~~	Instant
-Prismatic Ending	mh2	384	Premium Owned	Size: -2	Foil	1	W	~~	~~	Sorcery
-Thought Scour	dka	52	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Instant
+Prismatic Ending	mh2	384	Premium Owned	~~	Foil	1	W	~~	~~	Sorcery
+Thought Scour	dka	52	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Ragavan, Nimble Pilferer	mh2	138	Proxied	~~	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
 Mishra's Bauble	brr	97	Owned	~~	Foil	0	~~	~~	~~	Artifact
 Kroxa, Titan of Death's Hunger	sld	225	Premium Owned	~~	Foil	2	B,R	~~	~~	Legendary Creature — Elder Giant
 Grist, the Hunger Tide	mh2	202	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
-Lose Focus	mh2	49	Premium Owned	Size: -2	Foil	2	U	~~	~~	Instant
+Lose Focus	mh2	49	Premium Owned	~~	Foil	2	U	~~	~~	Instant
 Urza's Saga	mh2	380	Owned	~~	Foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
 Ignoble Hierarch	mh2	414	Owned	~~	Foil	1	G	Green	~~	Creature — Goblin Shaman
 Abrupt Decay	tsr	370	Owned	~~	Foil	2	B,G	~~	~~	Instant
-Luminarch Aspirant	znr	24	Premium Owned	Size: Neutral	Foil	2	W	~~	~~	Creature — Human Cleric
+Luminarch Aspirant	znr	24	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Cleric
 Tarmogoyf	fut	153	Owned	~~	Foil	2	G	~~	~~	Creature — Lhurgoyf
 Traverse the Ulvenwald	soi	234	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
-Portable Hole	afr	33	Owned	Size: -1	Foil	1	W	~~	~~	Artifact
+Portable Hole	afr	33	Owned	~~	Foil	1	W	~~	~~	Artifact
 Den of the Bugbear	afr	254	Owned	~~	Foil	0	R	Red	~~	Land
-Cave of the Frost Dragon	afr	253	Owned	Size: Neutral	Foil	0	W	White	~~	Land
+Cave of the Frost Dragon	afr	253	Owned	~~	Foil	0	W	White	~~	Land
 Hive of the Eye Tyrant	afr	258	Owned	~~	Foil	0	B	Black	~~	Land
 Knight of the Reliquary	tsr	379	Owned	~~	Foil	3	W,G	~~	~~	Creature — Human Knight
 Master of Death	mh2	205	Owned	~~	Foil	3	B,U	~~	~~	Creature — Zombie Wizard
 Sprite Dragon	iko	211	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Scavenging Ooze	plg21	5	Owned	~~	Foil	2	G	~~	~~	Creature — Ooze
-Consider	mid	388	Premium Owned	Size: Neutral	Foil	1	U	~~	~~	Instant
+Consider	mid	388	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Cling to Dust	thb	87	Owned	~~	Foil	1	B	~~	~~	Instant
 Infernal Grasp	mid	107	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Field of the Dead	m20	247	Premium Owned	~~	Foil	0	~~	~~	~~	Land
-Shelldock Isle	lrw	272	Premium Owned	Size: Neutral,Size: +1	Foil	0	U	Blue	~~	Land
+Shelldock Isle	lrw	272	Premium Owned	~~	Foil	0	U	Blue	~~	Land
 Falkenrath Pit Fighter	mid	137	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Vampire Warrior
 Magmatic Channeler	znr	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Wizard
 Scourge of the Skyclaves	znr	343	Owned	~~	Foil	2	B	~~	~~	Creature — Demon
 Territorial Kavu	mh2	425	Owned	~~	Foil	2	G,R	~~	~~	Creature — Kavu
-Skyclave Apparition	znr	322	Premium Owned	Size: -1,Size: Ambiguous	Foil	3	W	~~	~~	Creature — Kor Spirit
-Sungold Sentinel	mid	332	Premium Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Creature — Human Soldier
+Skyclave Apparition	znr	322	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Kor Spirit
+Sungold Sentinel	mid	332	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
 Grim Flayer	emn	184	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Human Warrior
 Death's Shadow	sld	474	Owned	~~	Foil	1	B	~~	~~	Creature — Avatar
 Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
 Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
-Restoration Angel	avr	32	Premium Owned	Size: Neutral	Foil	4	W	~~	~~	Creature — Angel
+Restoration Angel	avr	32	Premium Owned	~~	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
 Warden of the First Tree	frf	143	Premium Owned	~~	Foil	1	W,B,G	Hybrid	~~	Creature — Human
@@ -268,26 +268,26 @@ Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	uma	128	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
-Hopeful Initiate	vow	20	Premium Owned	Size: Neutral,Size: Ambiguous	Foil	1	W	~~	~~	Creature — Human Warlock
+Hopeful Initiate	vow	20	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Warlock
 Dread Fugue	vow	107	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
 Primeval Titan	m11	192	Premium Owned	~~	Foil	6	G	~~	~~	Creature — Giant
 Cemetery Prowler	vow	191	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Wolf
 Pyrite Spellbomb	mma	212	Premium Owned	~~	Foil	1	R	~~	~~	Artifact
 Reanimate	tmp	151	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
-Spell Snare	dis	33	Premium Owned	Size: -2	Foil	1	U	~~	~~	Instant
+Spell Snare	dis	33	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Life from the Loam	rav	172	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dead Weight	isd	96	Premium Owned	~~	Foil	1	B	~~	~~	Enchantment — Aura
-The Wandering Emperor	neo	42	Premium Owned	Size: +1,Size: +N,Size: -1,Size: -N	Foil	4	W	~~	~~	Legendary Planeswalker
+The Wandering Emperor	neo	42	Premium Owned	~~	Foil	4	W	~~	~~	Legendary Planeswalker
 Takenuma, Abandoned Mire	neo	416	Owned	~~	Foil	0	B	Black	~~	Legendary Land
-Lion Sash	neo	26	Premium Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
-Eiganjo, Seat of the Empire	neo	268	Premium Owned	Size: Neutral,Size: -2	Foil	0	W	White	~~	Legendary Land
+Lion Sash	neo	26	Premium Owned	~~	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
+Eiganjo, Seat of the Empire	neo	268	Premium Owned	~~	Foil	0	W	White	~~	Legendary Land
 Rabbit Battery	neo	157	Owned	~~	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
 Twinshot Sniper	neo	168	Premium Owned	~~	Foil	2	R	~~	~~	Instant
-Swift Reconfiguration	nec	45	Owned	Size: Neutral,Size: Ambiguous	Non-foil	1	W	~~	~~	Enchantment — Aura
+Swift Reconfiguration	nec	45	Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
 Boseiju, Who Endures	neo	412	Premium Owned	~~	Foil	0	G	Green	~~	Legendary Land
 Lethal Scheme	pncc	36p	Owned	~~	Foil	4	B	~~	~~	Instant
-Ledger Shredder	snc	46	Premium Owned	Size: Neutral	Foil	2	U	~~	~~	Creature — Bird Advisor
+Ledger Shredder	snc	46	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Bird Advisor
 Titania, Protector of Argoth	mh2	416	Premium Owned	~~	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Lava Dart	jud	94	Premium Owned	~~	Foil	1	R	~~	~~	Instant
 Wolfbriar Elemental	wwk	118	Premium Owned	~~	Foil	4	G	~~	~~	Creature — Elemental
@@ -299,32 +299,32 @@ Bedlam Reveler	tsr	340	Owned	~~	Foil	2	R	~~	~~	Creature — Devil Horror
 Electrolyze	gpt	111	Owned	~~	Foil	3	U,R	~~	~~	Instant
 Eternal Witness	tsr	361	Owned	~~	Foil	3	G	~~	~~	Creature — Human Shaman
 Witherbloom Command	stx	248	Owned	~~	Foil	2	B,G	~~	~~	Sorcery
-March of Otherworldly Light	neo	369	Owned	Size: -2,Size: -N	Foil	2	W	~~	~~	Instant
-Mental Note	jud	46	Owned	Size: Neutral	Foil	1	U	~~	~~	Instant
+March of Otherworldly Light	neo	369	Owned	~~	Foil	2	W	~~	~~	Instant
+Mental Note	jud	46	Owned	~~	Foil	1	U	~~	~~	Instant
 Embercleave	eld	120	Owned	~~	Foil	3	R	~~	~~	Legendary Artifact — Equipment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Foil	3	R	~~	~~	Creature
-Otawara, Soaring City	neo	271	Owned	Size: Neutral	Foil	0	U	Blue	~~	Legendary Land
+Otawara, Soaring City	neo	271	Owned	~~	Foil	0	U	Blue	~~	Legendary Land
 Mawloc	40k	133	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Tyranid
 Evolved Sleeper	dmu	402	Owned	~~	Foil	1	B	~~	~~	Creature — Human
-Guardian of New Benalia	dmu	19	Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Creature — Human Soldier
+Guardian of New Benalia	dmu	19	Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
 Cut Down	dmu	432	Owned	~~	Foil	1	B	~~	~~	Instant
 Quirion Beastcaller	dmu	175	Owned	~~	Foil	2	G	~~	~~	Creature — Dryad Warrior
 Electrostatic Infantry	dmu	122	Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Wizard
 Manamorphose	shm	211	Owned	~~	Foil	2	R,G	Hybrid	~~	Instant
-Timeless Dragon	mh2	388	Owned	Size: +1	Foil	5	W	~~	~~	Creature — Dragon
-Archmage's Charm	h1r	7	Owned	Size: -2,Size: +1,Size: -1	Foil	3	U	~~	~~	Instant
-Teferi, Temporal Pilgrim	bro	66	Owned	Size: +N	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
-Dress Down	pmh2	39s	Owned	Size: Neutral	Foil	2	U	~~	~~	Enchantment
+Timeless Dragon	mh2	388	Owned	~~	Foil	5	W	~~	~~	Creature — Dragon
+Archmage's Charm	h1r	7	Owned	~~	Foil	3	U	~~	~~	Instant
+Teferi, Temporal Pilgrim	bro	66	Owned	~~	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
+Dress Down	pmh2	39s	Owned	~~	Foil	2	U	~~	~~	Enchantment
 Supreme Verdict	prtr	201★	Owned	~~	Foil	4	W,U	~~	~~	Sorcery
-Faerie Vandal	eld	45	Owned	Size: Neutral	Foil	2	U	~~	~~	Creature — Faerie Rogue
+Faerie Vandal	eld	45	Owned	~~	Foil	2	U	~~	~~	Creature — Faerie Rogue
 Third Path Iconoclast	bro	223	Owned	~~	Non-foil	2	R,U	~~	~~	Creature — Human Monk
-Adeline, Resplendent Cathar	mid	1	Owned	Size: +N	Foil	3	W	~~	~~	Legendary Creature — Human Knight
-Anointed Peacekeeper	dmu	2	Owned	Size: Neutral	Foil	3	W	~~	~~	Creature — Human Cleric
-Soul Partition	bro	26	Owned	Size: -1	Foil	2	W	~~	~~	Instant
+Adeline, Resplendent Cathar	mid	1	Owned	~~	Foil	3	W	~~	~~	Legendary Creature — Human Knight
+Anointed Peacekeeper	dmu	2	Owned	~~	Foil	3	W	~~	~~	Creature — Human Cleric
+Soul Partition	bro	26	Owned	~~	Foil	2	W	~~	~~	Instant
 Irencrag Pyromancer	eld	128	Owned	~~	Foil	3	R	~~	~~	Creature — Human Wizard
-Glimmer Lens	onc	6	Owned	Size: +1,Size: +N	Non-foil	2	W	~~	~~	Artifact — Equipment
-Terminus	avr	38	Owned	Size: -N	Foil	1	W	~~	~~	Sorcery
-Mystic Sanctuary	tsr	408	Owned	Size: Neutral	Foil	0	U	Blue	~~	Land — Island
+Glimmer Lens	onc	6	Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
+Terminus	avr	38	Owned	~~	Foil	1	W	~~	~~	Sorcery
+Mystic Sanctuary	tsr	408	Owned	~~	Foil	0	U	Blue	~~	Land — Island
 Misery's Shadow	bro	107	Owned	~~	Foil	2	B	~~	~~	Creature — Shade
 Snuff Out	mmq	162	Owned	~~	Foil	0	B	~~	~~	Instant
 Vendetta	mmq	170	Owned	~~	Foil	1	B	~~	~~	Instant
