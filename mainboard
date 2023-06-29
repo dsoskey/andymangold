@@ -47,7 +47,6 @@ Liliana, the Last Hope	2x2	333	Owned	~~	Foil	3	B	~~	~~	Legendary Planeswalker �
 Fatal Push	f17	8	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Cast Down	dom	81	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Go for the Throat	f11	11	Premium Owned	~~	Foil	2	B	~~	~~	Instant
-Murderous Cut	ktk	81	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Duress	pal00	2	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Inquisition of Kozilek	cn2	140	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Thoughtseize	tsr	334	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
@@ -121,7 +120,6 @@ Fire // Ice	apc	128	Premium Owned	~~	Foil	2	U,R	Hybrid	~~	Instant
 Sacred Foundry	gtc	245	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Sacred Foundry	gtc	245	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Figure of Destiny	pd2	5	Premium Owned	~~	Foil	1	W,R	Hybrid	~~	Creature — Kithkin
-Bonesplitter	mrd	146	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Retrofitter Foundry	p23	4	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Sensei's Divining Top	chk	268	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact
 Skullclamp	sld	1112	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
@@ -129,7 +127,6 @@ Umezawa's Jitte	bok	163	Premium Owned	~~	Foil	2	~~	~~	~~	Legendary Artifact — 
 Grafted Wargear	5dn	126	Premium Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 Bomat Courier	kld	199	Premium Owned	~~	Foil	1	~~	Red	~~	Artifact Creature — Construct
 Phyrexian Revoker	mbs	122	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Horror
-Porcelain Legionnaire	nph	19	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Soldier
 Smuggler's Copter	kld	235	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
 Walking Ballista	aer	181	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Construct
 Ancient Tomb	tmp	315	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -174,7 +171,6 @@ Force of Negation	mh1	52	Owned	Size: -2,Size: -3	Foil	0	U	~~	~~	Instant
 Heartless Act	iko	91	Owned	~~	Foil	2	B	~~	~~	Instant
 Eliminate	m21	97	Owned	~~	Foil	2	B	~~	~~	Instant
 Eidolon of the Great Revel	jou	94	Owned	~~	Foil	2	R	~~	~~	Enchantment Creature — Spirit
-Magmatic Sinkhole	h1r	17	Owned	~~	Foil	1	R	~~	~~	Instant
 Horizon Canopy	ima	240	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
 Golos, Tireless Pilgrim	m20	226	Premium Owned	~~	Foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Lurrus of the Dream-Den	iko	355	Owned	~~	Foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
@@ -214,7 +210,6 @@ Steam Vents	grn	257	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Moun
 Sacred Foundry	grn	254	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Fetid Pools	akh	243	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Irrigated Farmland	akh	245	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
-Prismari Command	stx	348	Premium Owned	~~	Foil	3	U,R	~~	~~	Instant
 Elite Spellbinder	stx	17	Premium Owned	Size: Neutral	Foil	3	W	~~	~~	Creature — Human Cleric
 Wrenn and Six	2x2	296	Owned	~~	Foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Sedgemoor Witch	stx	306	Premium Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
@@ -267,14 +262,12 @@ Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
 Restoration Angel	avr	32	Premium Owned	Size: Neutral	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
-Dragonsguard Elite	stx	376	Premium Owned	~~	Foil	2	G	~~	~~	Creature — Human Druid
 Warden of the First Tree	frf	143	Premium Owned	~~	Foil	1	W,B,G	Hybrid	~~	Creature — Human
 Kess, Dissident Mage	mh1	206	Premium Owned	~~	Foil	4	U,B,R	~~	~~	Legendary Creature — Human Wizard
 Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	uma	128	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
-Briarbridge Tracker	mid	361	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Human Scout
 Hopeful Initiate	vow	20	Premium Owned	Size: Neutral,Size: Ambiguous	Foil	1	W	~~	~~	Creature — Human Warlock
 Dread Fugue	vow	107	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
@@ -291,7 +284,6 @@ Lion Sash	neo	26	Premium Owned	Size: Neutral,Size: -N	Foil	2	W	~~	~~	Artifact Cr
 Eiganjo, Seat of the Empire	neo	268	Premium Owned	Size: Neutral,Size: -2	Foil	0	W	White	~~	Legendary Land
 Rabbit Battery	neo	157	Owned	~~	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
 Twinshot Sniper	neo	168	Premium Owned	~~	Foil	2	R	~~	~~	Instant
-Blade of the Oni	neo	453	Owned	~~	Non-foil	2	B	~~	~~	Artifact Creature — Equipment Demon
 Swift Reconfiguration	nec	45	Owned	Size: Neutral,Size: Ambiguous	Non-foil	1	W	~~	~~	Enchantment — Aura
 Boseiju, Who Endures	neo	412	Premium Owned	~~	Foil	0	G	Green	~~	Legendary Land
 Lethal Scheme	pncc	36p	Owned	~~	Foil	4	B	~~	~~	Instant
@@ -330,8 +322,6 @@ Adeline, Resplendent Cathar	mid	1	Owned	Size: +N	Foil	3	W	~~	~~	Legendary Creatu
 Anointed Peacekeeper	dmu	2	Owned	Size: Neutral	Foil	3	W	~~	~~	Creature — Human Cleric
 Soul Partition	bro	26	Owned	Size: -1	Foil	2	W	~~	~~	Instant
 Irencrag Pyromancer	eld	128	Owned	~~	Foil	3	R	~~	~~	Creature — Human Wizard
-Managorger Hydra	ori	186	Owned	~~	Foil	3	G	~~	~~	Creature — Hydra
-Chromatic Star	brr	11	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Glimmer Lens	onc	6	Owned	Size: +1,Size: +N	Non-foil	2	W	~~	~~	Artifact — Equipment
 Terminus	avr	38	Owned	Size: -N	Foil	1	W	~~	~~	Sorcery
 Mystic Sanctuary	tsr	408	Owned	Size: Neutral	Foil	0	U	Blue	~~	Land — Island
@@ -342,7 +332,6 @@ Chromatic Sphere	inv	299	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Sheltered Thicket	akh	248	Owned	~~	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Thalia and The Gitrog Monster	mom	316	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	pori	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -350,7 +339,6 @@ Winota, Joiner of Forces	piko	216p	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Doomskar Warrior	mom	185	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	bng	119	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -358,4 +346,16 @@ Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Repeal	tsr	317	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Drown in the Loch	sld	270	Owned	~~	Foil	2	B,U	~~	~~	Instant
 Mutagenic Growth	nph	116	Owned	~~	Foil	"""0"""	~~	~~	~~	~~
-Defile	h1r	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Barbarian Ring	ody	313	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Treetop Village	ulg	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scrabbling Claws	mrd	237	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Orcish Bowmasters	ltr	433	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reprieve	ltr	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stern Scolding	ltr	71	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Urborg Scavengers	mat	15	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Andúril, Flame of the West	ltr	236	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flame of Anor	ltr	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Endurance	mh2	157	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jewel Thief	snc	151	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Spellstutter Sprite	lrw	89	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Qasali Pridemage	tsr	383	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
