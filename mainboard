@@ -80,9 +80,7 @@ Exploration	usg	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	fnm	11	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	j12	3	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Druid
 Lotus Cobra	pgpx	2012b	Premium Owned	~~	Foil	2	G	~~	~~	Creature — Snake
-Rofellos, Llanowar Emissary	uds	118	Premium Owned	~~	Foil	2	G	~~	~~	Legendary Creature — Elf Druid
 Tireless Tracker	soi	233	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Human Scout
-Craterhoof Behemoth	avr	172	Owned	~~	Non-foil	8	G	~~	~~	Creature — Beast
 Green Sun's Zenith	mbs	81	Premium Owned	~~	Foil	9	G	~~	~~	Creature
 Voracious Hydra	m20	200	Premium Owned	~~	Foil	9	G	~~	~~	Creature — Hydra
 Garruk Relentless	isd	181	Owned	~~	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk 
@@ -161,7 +159,6 @@ Silent Clearing	mh1	246	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Fiery Islet	mh1	238	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
 Nurturing Peatland	mh1	243	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
 Mutavault	pgpx	2018	Premium Owned	~~	Foil	0	~~	~~	~~	Land
-Stonecoil Serpent	peld	235p	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact Creature — Snake
 Knight of the Ebon Legion	m20	105	Premium Owned	~~	Foil	1	B	~~	~~	Creature — Vampire Knight
 Rimrock Knight	eld	294	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Knight
 Seasoned Hallowblade	m21	34	Owned	~~	Foil	2	W	~~	~~	Creature — Human Warrior
@@ -263,7 +260,6 @@ Restoration Angel	avr	32	Premium Owned	~~	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
 Warden of the First Tree	frf	143	Premium Owned	~~	Foil	1	W,B,G	Hybrid	~~	Creature — Human
-Kess, Dissident Mage	mh1	206	Premium Owned	~~	Foil	4	U,B,R	~~	~~	Legendary Creature — Human Wizard
 Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
@@ -359,3 +355,7 @@ Endurance	mh2	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jewel Thief	snc	151	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Blackmail	ons	127	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stormwing Entity	m21	73	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Smoldering Egg	mid	159	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Knight of Autumn	grn	183	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
