@@ -15,7 +15,6 @@ Swords to Plowshares	f01	6	Premium Owned	~~	Foil	1	W	~~	~~	Instant
 Unexpectedly Absent	c13	25	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Balance	g04	2	Premium Owned	~~	Foil	2	W	~~	~~	Sorcery
 Wrath of God	7ed	57★	Premium Owned	~~	Foil	4	W	~~	~~	Sorcery
-Jace, Vryn's Prodigy	ori	60	Premium Owned	~~	Foil	2	U	~~	~~	Legendary Creature — Human Wizard 
 Snapcaster Mage	isd	78	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Horror 
 Vendilion Clique	mor	55	Premium Owned	~~	Foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
@@ -144,7 +143,7 @@ Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Wooded Foothills	ons	330	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
 Dismember	nph	57	Premium Owned	~~	Foil	1	~~	~~	~~	Instant
 Gitaxian Probe	nph	35	Premium Owned	~~	Foil	0	~~	~~	~~	Sorcery
-Giant Killer	eld	275	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Peasant 
+Cheeky House-Mouse	woe	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
 Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
@@ -259,7 +258,6 @@ Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
 Restoration Angel	avr	32	Premium Owned	~~	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
-Warden of the First Tree	frf	143	Premium Owned	~~	Foil	1	W,B,G	Hybrid	~~	Creature — Human
 Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
@@ -279,8 +277,6 @@ Takenuma, Abandoned Mire	neo	416	Owned	~~	Foil	0	B	Black	~~	Legendary Land
 Lion Sash	neo	26	Premium Owned	~~	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Eiganjo, Seat of the Empire	neo	268	Premium Owned	~~	Foil	0	W	White	~~	Legendary Land
 Rabbit Battery	neo	157	Owned	~~	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
-Twinshot Sniper	neo	168	Premium Owned	~~	Foil	2	R	~~	~~	Instant
-Swift Reconfiguration	nec	45	Owned	~~	Non-foil	1	W	~~	~~	Enchantment — Aura
 Boseiju, Who Endures	neo	412	Premium Owned	~~	Foil	0	G	Green	~~	Legendary Land
 Lethal Scheme	pncc	36p	Owned	~~	Foil	4	B	~~	~~	Instant
 Ledger Shredder	snc	46	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Bird Advisor
@@ -329,9 +325,7 @@ Sheltered Thicket	akh	248	Owned	~~	Foil	0	R,G	Multicolored	~~	Land — Mountain 
 Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pia and Kiran Nalaar	pori	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Winota, Joiner of Forces	piko	216p	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -359,3 +353,9 @@ Blackmail	ons	127	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Premium Owned	~~	Foil	"""2"""	~~	~~	~~	~~
 Smoldering Egg	mid	159	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Knight of Autumn	grn	183	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Elusive Otter	woe	289	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Virtue of Persistence	woe	115	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Viper	woe	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Questing Druid	woe	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mosswood Dreadknight	woe	292	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Vinestalk	woe	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
