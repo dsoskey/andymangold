@@ -143,7 +143,7 @@ Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Wooded Foothills	ons	330	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
 Dismember	nph	57	Premium Owned	~~	Foil	1	~~	~~	~~	Instant
 Gitaxian Probe	nph	35	Premium Owned	~~	Foil	0	~~	~~	~~	Sorcery
-Cheeky House-Mouse	woe	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cheeky House-Mouse	woe	7	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
 Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
@@ -334,7 +334,7 @@ Bone Shards	mh2	395	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	bng	119	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Repeal	tsr	317	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Drown in the Loch	sld	270	Owned	~~	Foil	2	B,U	~~	~~	Instant
+Drown in the Loch	pw23	4	Owned	~~	Foil	2	B,U	~~	~~	Instant
 Mutagenic Growth	nph	116	Owned	~~	Foil	"""0"""	~~	~~	~~	~~
 Barbarian Ring	ody	313	Owned	~~	Foil	"""~~"""	~~	Red	~~	~~
 Treetop Village	ulg	143	Owned	~~	Foil	"""~~"""	~~	Green	~~	~~
@@ -353,9 +353,9 @@ Blackmail	ons	127	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Premium Owned	~~	Foil	"""2"""	~~	~~	~~	~~
 Smoldering Egg	mid	159	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Knight of Autumn	grn	183	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Elusive Otter	woe	289	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Virtue of Persistence	woe	115	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Scalding Viper	woe	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Questing Druid	woe	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mosswood Dreadknight	woe	292	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Restless Vinestalk	woe	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elusive Otter	woe	289	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Virtue of Persistence	woe	115	Owned	~~	Foil	"""2"""	~~	~~	~~	Sorcery
+Scalding Viper	woe	235	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Questing Druid	woe	294	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Mosswood Dreadknight	woe	292	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
+Restless Vinestalk	woe	261	Owned	~~	~~	"""~~"""	~~	Multicolored	~~	~~
