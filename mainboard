@@ -56,16 +56,16 @@ Goblin Guide	zen	126	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Goblin Scout
 Grim Lavamancer	tor	100	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Wizard
 Monastery Swiftspear	tsr	349	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Monk
 Soul-Scar Mage	akh	148	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Wizard
-Zurgo Bellstriker	dtk	169	Premium Owned	~~	Foil	1	R	~~	~~	Legendary Creature — Orc Warrior
-Kari Zev, Skyship Raider	aer	87	Premium Owned	~~	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
+Zurgo Bellstriker	dtk	169	Premium Owned	Team Cut	Foil	1	R	~~	~~	Legendary Creature — Orc Warrior
+Kari Zev, Skyship Raider	aer	87	Premium Owned	Team Cut	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Young Pyromancer	tsr	353	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Shaman
-Goblin Rabblemaster	p30a	22	Premium Owned	~~	Foil	3	R	~~	~~	Creature — Goblin Warrior
+Goblin Rabblemaster	p30a	22	Premium Owned	Team Cut	Foil	3	R	~~	~~	Creature — Goblin Warrior
 Seasoned Pyromancer	2x2	123	Premium Owned	~~	Foil	3	R	~~	~~	Creature — Human Shaman
-Chandra, Torch of Defiance	kld	110	Premium Owned	~~	Foil	4	R	~~	~~	Legendary Planeswalker — Chandra
+Chandra, Torch of Defiance	kld	110	Premium Owned	Team Cut	Foil	4	R	~~	~~	Legendary Planeswalker — Chandra
 Burst Lightning	zen	119	Premium Owned	~~	Foil	1	R	~~	~~	Instant
 Lightning Bolt	jgp	1	Premium Owned	~~	Foil	1	R	~~	~~	Instant
-Abrade	vow	139	Premium Owned	~~	Foil	2	R	~~	~~	Instant
-Magma Jet	5dn	73	Premium Owned	~~	Foil	2	R	~~	~~	Instant
+Abrade	vow	139	Premium Owned	Team Cut	Foil	2	R	~~	~~	Instant
+Magma Jet	5dn	73	Premium Owned	Team Cut	Foil	2	R	~~	~~	Instant
 Firebolt	ody	193	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Flame Slash	roe	145	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Forked Bolt	roe	146	Owned	~~	Foil	1	R	~~	~~	Sorcery
@@ -245,7 +245,7 @@ Cling to Dust	thb	87	Owned	~~	Foil	1	B	~~	~~	Instant
 Infernal Grasp	mid	107	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Field of the Dead	m20	247	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Shelldock Isle	lrw	272	Premium Owned	~~	Foil	0	U	Blue	~~	Land
-Falkenrath Pit Fighter	mid	137	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Vampire Warrior
+Falkenrath Pit Fighter	mid	137	Premium Owned	Team Cut	Foil	1	R	~~	~~	Creature — Vampire Warrior
 Magmatic Channeler	znr	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Wizard
 Scourge of the Skyclaves	znr	343	Owned	~~	Foil	2	B	~~	~~	Creature — Demon
 Territorial Kavu	mh2	425	Owned	~~	Foil	2	G,R	~~	~~	Creature — Kavu
@@ -261,7 +261,7 @@ Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Cr
 Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
-Faithless Looting	dka	87	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
+Faithless Looting	dka	87	Premium Owned	Team Cut	Foil	1	R	~~	~~	Sorcery
 Hopeful Initiate	vow	20	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Warlock
 Dread Fugue	vow	107	Premium Owned	Team Cut	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
@@ -322,7 +322,7 @@ Snuff Out	mmq	162	Owned	~~	Foil	0	B	~~	~~	Instant
 Vendetta	mmq	170	Owned	Team Cut	Foil	1	B	~~	~~	Instant
 Chromatic Sphere	inv	299	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Sheltered Thicket	akh	248	Owned	Team Cut	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
-Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
+Anje's Ravager	c19	22	Owned	Team Cut	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
@@ -351,7 +351,7 @@ Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blackmail	ons	127	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Premium Owned	Team Cut	Foil	"""2"""	~~	~~	~~	~~
-Smoldering Egg	mid	159	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Smoldering Egg	mid	159	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Knight of Autumn	grn	183	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Elusive Otter	woe	289	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Virtue of Persistence	woe	281	Owned	~~	Foil	"""2"""	~~	~~	~~	Sorcery
