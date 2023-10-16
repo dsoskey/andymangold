@@ -20,7 +20,7 @@ Thing in the Ice	soi	92	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Horror
 Vendilion Clique	mor	55	Premium Owned	~~	Foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Jace, the Mind Sculptor	wwk	31	Owned	~~	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
 Brainstorm	mmq	61	Owned	~~	Foil	1	U	~~	~~	Instant
-Force Spike	7ed	76★	Premium Owned	~~	Foil	1	U	~~	~~	Instant
+Force Spike	7ed	76★	Premium Owned	Team Cut	Foil	1	U	~~	~~	Instant
 Opt	inv	64	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Spell Pierce	mm3	51	Premium Owned	~~	Foil	1	U	~~	~~	Instant
 Condescend	5dn	27	Premium Owned	~~	Foil	2	U	~~	~~	Instant
@@ -31,12 +31,12 @@ Memory Lapse	g99	1	Premium Owned	~~	Foil	2	U	~~	~~	Instant
 Miscalculation	ulg	36	Premium Owned	~~	Foil	2	U	~~	~~	Instant
 Delver of Secrets	isd	51	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Remand	tsr	316	Premium Owned	~~	Foil	2	U	~~	~~	Instant
-Mystic Confluence	j16	5	Premium Owned	~~	Foil	5	U	~~	~~	Instant
+Mystic Confluence	j16	5	Premium Owned	Team Cut	Foil	5	U	~~	~~	Instant
 Dig Through Time	plg21	2	Premium Owned	~~	Foil	2	U	~~	~~	Instant
 Ponder	m12	73	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
 Preordain	m11	70	Owned	~~	Foil	1	U	~~	~~	Sorcery
 Serum Visions	sld	32	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
-Sleight of Hand	7ed	98★	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
+Sleight of Hand	7ed	98★	Premium Owned	Team Cut	Foil	1	U	~~	~~	Sorcery
 Treasure Cruise	tsr	319	Premium Owned	~~	Foil	1	U	~~	~~	Sorcery
 Bitterblossom	mor	58	Premium Owned	~~	Foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Dark Confidant	g11	6	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Wizard
@@ -150,7 +150,7 @@ Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
 Primordial Mist	c18	12	Owned	~~	Non-foil	5	U	~~	~~	Enchantment
 Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
 Unearth	ulg	72	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
-Censor	akh	46	Premium Owned	~~	Foil	2	U	~~	~~	Instant
+Censor	akh	46	Premium Owned	Team Cut	Foil	2	U	~~	~~	Instant
 Oust	roe	40	Owned	~~	Foil	1	W	~~	~~	Sorcery
 Waterlogged Grove	mh1	249	Owned	~~	Non-foil	0	U,G	Hybrid	~~	Land
 Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
@@ -173,7 +173,7 @@ Lurrus of the Dream-Den	iko	355	Owned	~~	Foil	3	W,B	Hybrid	~~	Legendary Creature
 Cryptic Command	ppro	2020-1	Owned	~~	Foil	4	U	~~	~~	Instant
 Thraben Inspector	tsr	305	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
 Faerie Guidemother	eld	274	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Faerie
-Sea Gate Stormcaller	znr	77	Owned	~~	Foil	2	U	~~	~~	Creature — Human Wizard
+Sea Gate Stormcaller	znr	77	Owned	Team Cut	Foil	2	U	~~	~~	Creature — Human Wizard
 Disfigure	zen	87	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Bloodchief's Thirst	znr	94	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Shatterskull Smashing	znr	161	Premium Owned	Team Cut	Foil	0	R	Red	~~	Land
@@ -292,7 +292,7 @@ Electrolyze	gpt	111	Owned	~~	Foil	3	U,R	~~	~~	Instant
 Eternal Witness	tsr	361	Owned	~~	Foil	3	G	~~	~~	Creature — Human Shaman
 Witherbloom Command	stx	248	Owned	~~	Foil	2	B,G	~~	~~	Sorcery
 March of Otherworldly Light	neo	369	Owned	~~	Foil	2	W	~~	~~	Instant
-Mental Note	jud	46	Owned	~~	Foil	1	U	~~	~~	Instant
+Mental Note	jud	46	Owned	Team Cut	Foil	1	U	~~	~~	Instant
 Embercleave	eld	120	Owned	~~	Foil	3	R	~~	~~	Legendary Artifact — Equipment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Foil	3	R	~~	~~	Creature
 Otawara, Soaring City	neo	271	Owned	Team Cut	Foil	0	U	Blue	~~	Legendary Land
@@ -305,10 +305,10 @@ Electrostatic Infantry	dmu	122	Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Wizard
 Manamorphose	shm	211	Owned	~~	Foil	2	R,G	Hybrid	~~	Instant
 Timeless Dragon	mh2	388	Owned	~~	Foil	5	W	~~	~~	Creature — Dragon
 Archmage's Charm	h1r	7	Owned	~~	Foil	3	U	~~	~~	Instant
-Teferi, Temporal Pilgrim	bro	66	Owned	~~	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
+Teferi, Temporal Pilgrim	bro	66	Owned	Team Cut	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
 Dress Down	pmh2	39s	Owned	~~	Foil	2	U	~~	~~	Enchantment
 Supreme Verdict	prtr	201★	Owned	~~	Foil	4	W,U	~~	~~	Sorcery
-Faerie Vandal	eld	45	Owned	~~	Foil	2	U	~~	~~	Creature — Faerie Rogue
+Faerie Vandal	eld	45	Owned	Team Cut	Foil	2	U	~~	~~	Creature — Faerie Rogue
 Third Path Iconoclast	bro	223	Premium Owned	~~	Foil	2	R,U	~~	~~	Creature — Human Monk
 Adeline, Resplendent Cathar	mid	1	Owned	~~	Foil	3	W	~~	~~	Legendary Creature — Human Knight
 Anointed Peacekeeper	dmu	2	Owned	Team Cut	Foil	3	W	~~	~~	Creature — Human Cleric
@@ -329,7 +329,7 @@ Blade Splicer	nph	4	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Faerie Mastermind	mom	58	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	bng	119	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -350,7 +350,7 @@ Jewel Thief	snc	151	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blackmail	ons	127	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Stormwing Entity	m21	73	Premium Owned	~~	Foil	"""2"""	~~	~~	~~	~~
+Stormwing Entity	m21	73	Premium Owned	Team Cut	Foil	"""2"""	~~	~~	~~	~~
 Smoldering Egg	mid	159	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Knight of Autumn	grn	183	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Elusive Otter	woe	289	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
