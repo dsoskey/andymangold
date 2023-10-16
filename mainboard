@@ -73,15 +73,15 @@ Arc Trail	som	81	Premium Owned	~~	Foil	2	R	~~	~~	Sorcery
 Arbor Elf	wwk	95	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Avacyn's Pilgrim	isd	170	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Monk
 Birds of Paradise	7ed	231★	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Bird
-Elves of Deep Shadow	rav	161	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Gilded Goose	eld	160	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Bird
+Elves of Deep Shadow	rav	161	Owned	Team Cut	Non-foil	1	G	~~	~~	Creature — Elf Druid
+Gilded Goose	eld	160	Premium Owned	Team Cut	Foil	1	G	~~	~~	Creature — Bird
 Exploration	usg	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	fnm	11	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	j12	3	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Druid
 Lotus Cobra	pgpx	2012b	Premium Owned	~~	Foil	2	G	~~	~~	Creature — Snake
 Tireless Tracker	soi	233	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Human Scout
 Green Sun's Zenith	mbs	81	Premium Owned	~~	Foil	"""4"""	G	~~	~~	Creature
-Voracious Hydra	m20	200	Premium Owned	~~	Foil	"""4"""	G	~~	~~	Creature — Hydra
+Voracious Hydra	m20	200	Premium Owned	Team Cut	Foil	"""4"""	G	~~	~~	Creature — Hydra
 Garruk Relentless	isd	181	Owned	~~	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk 
 Nissa, Who Shakes the World	sld	518	Premium Owned	~~	Foil	5	G	~~	~~	Legendary Planeswalker — Nissa
 Once Upon a Time	eld	169	Premium Owned	~~	Foil	0	G	~~	~~	Instant
@@ -177,7 +177,7 @@ Sea Gate Stormcaller	znr	77	Owned	Team Cut	Foil	2	U	~~	~~	Creature — Human Wiz
 Disfigure	zen	87	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Bloodchief's Thirst	znr	94	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Shatterskull Smashing	znr	161	Premium Owned	Team Cut	Foil	0	R	Red	~~	Land
-Explore	wwk	99	Premium Owned	~~	Foil	2	G	~~	~~	Sorcery
+Explore	wwk	99	Premium Owned	Team Cut	Foil	2	G	~~	~~	Sorcery
 Seal of Fire	nem	98	Premium Owned	~~	Foil	1	R	~~	~~	Enchantment
 Portent	ice	90	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Esika's Chariot	khm	315	Premium Owned	~~	Foil	4	G	~~	~~	Legendary Artifact — Vehicle
@@ -231,7 +231,7 @@ Ignoble Hierarch	mh2	414	Owned	~~	Foil	1	G	Green	~~	Creature — Goblin Shaman
 Abrupt Decay	tsr	370	Owned	~~	Foil	2	B,G	~~	~~	Instant
 Luminarch Aspirant	znr	24	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Cleric
 Tarmogoyf	fut	153	Owned	~~	Foil	2	G	~~	~~	Creature — Lhurgoyf
-Traverse the Ulvenwald	soi	234	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
+Traverse the Ulvenwald	soi	234	Premium Owned	Team Cut	Foil	1	G	~~	~~	Sorcery
 Portable Hole	afr	33	Owned	~~	Foil	1	W	~~	~~	Artifact
 Den of the Bugbear	afr	254	Owned	~~	Foil	0	R	Red	~~	Land
 Cave of the Frost Dragon	afr	253	Owned	~~	Foil	0	W	White	~~	Land
@@ -282,9 +282,9 @@ Lethal Scheme	pncc	36p	Owned	~~	Foil	4	B	~~	~~	Instant
 Ledger Shredder	snc	46	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Bird Advisor
 Titania, Protector of Argoth	mh2	416	Premium Owned	~~	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Lava Dart	jud	94	Premium Owned	~~	Foil	1	R	~~	~~	Instant
-Wolfbriar Elemental	wwk	118	Premium Owned	~~	Foil	4	G	~~	~~	Creature — Elemental
+Wolfbriar Elemental	wwk	118	Premium Owned	Team Cut	Foil	4	G	~~	~~	Creature — Elemental
 Lightning Helix	rav	213	Premium Owned	~~	Foil	2	R,W	~~	~~	Instant
-Collected Company	dtk	177	Owned	~~	Foil	4	G	~~	~~	Instant
+Collected Company	dtk	177	Owned	Team Cut	Foil	4	G	~~	~~	Instant
 Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
 Spell Queller	emn	189	Premium Owned	~~	Foil	3	U,W	~~	~~	Creature — Spirit
 Bedlam Reveler	tsr	340	Owned	~~	Foil	2	R	~~	~~	Creature — Devil Horror
@@ -328,10 +328,10 @@ Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deeproot Wayfinder	mom	184	Owned	Team Cut	~~	"""~~"""	~~	~~	~~	~~
 Faerie Mastermind	mom	58	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Courser of Kruphix	bng	119	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Courser of Kruphix	bng	119	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Jolrael, Mwonvuli Recluse	dmr	343	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Repeal	tsr	317	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Drown in the Loch	pw23	4	Owned	~~	Foil	2	B,U	~~	~~	Instant
@@ -346,7 +346,7 @@ Urborg Scavengers	mat	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hogaak, Arisen Necropolis	mh1	202	Owned	~~	~~	"""2"""	~~	Hybrid	~~	~~
 Flame of Anor	ltr	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Endurance	mh2	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Jewel Thief	snc	151	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Jewel Thief	snc	151	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blackmail	ons	127	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
