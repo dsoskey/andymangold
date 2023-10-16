@@ -42,16 +42,16 @@ Bitterblossom	mor	58	Premium Owned	~~	Foil	2	B	~~	~~	Tribal Enchantment — Faer
 Dark Confidant	g11	6	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Wizard
 Kitesail Freebooter	xln	110	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Pirate
 Liliana of the Veil	dmu	97	Owned	~~	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
-Liliana, the Last Hope	2x2	333	Owned	~~	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
+Liliana, the Last Hope	2x2	333	Owned	Team Cut	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Fatal Push	f17	8	Premium Owned	~~	Foil	1	B	~~	~~	Instant
-Cast Down	dom	81	Premium Owned	~~	Foil	2	B	~~	~~	Instant
+Cast Down	dom	81	Premium Owned	Team Cut	Foil	2	B	~~	~~	Instant
 Go for the Throat	f11	11	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Duress	pal00	2	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Inquisition of Kozilek	cn2	140	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Thoughtseize	tsr	334	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Collective Brutality	emn	85	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
 Toxic Deluge	2xm	345	Premium Owned	~~	Foil	3	B	~~	~~	Sorcery
-Damnation	plc	85	Premium Owned	~~	Foil	4	B	~~	~~	Sorcery
+Damnation	plc	85	Premium Owned	Team Cut	Foil	4	B	~~	~~	Sorcery
 Goblin Guide	zen	126	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Goblin Scout
 Grim Lavamancer	tor	100	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Wizard
 Monastery Swiftspear	tsr	349	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Monk
@@ -145,7 +145,7 @@ Dismember	nph	57	Premium Owned	~~	Foil	1	~~	~~	~~	Instant
 Gitaxian Probe	nph	35	Premium Owned	~~	Foil	0	~~	~~	~~	Sorcery
 Cheeky House-Mouse	woe	7	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
-Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
+Murderous Rider	eld	287	Owned	Team Cut	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
 Primordial Mist	c18	12	Owned	~~	Non-foil	5	U	~~	~~	Enchantment
 Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
@@ -208,7 +208,7 @@ Fetid Pools	akh	243	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swam
 Irrigated Farmland	akh	245	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
 Elite Spellbinder	stx	17	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Human Cleric
 Wrenn and Six	2x2	296	Owned	~~	Foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
-Sedgemoor Witch	stx	306	Premium Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
+Sedgemoor Witch	stx	306	Premium Owned	Team Cut	Foil	3	B	~~	~~	Creature — Human Warlock
 Vanishing Verse	stx	354	Premium Owned	~~	Foil	2	W,B	~~	~~	Instant
 Abundant Harvest	sta	48	Premium Owned	~~	Foil	1	G	~~	~~	Sorcery
 Dreadhorde Arcanist	tsr	341	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Zombie Wizard
@@ -254,7 +254,7 @@ Sungold Sentinel	mid	332	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Sold
 Grim Flayer	emn	184	Premium Owned	~~	Foil	2	B,G	~~	~~	Creature — Human Warrior
 Death's Shadow	sld	474	Owned	~~	Foil	1	B	~~	~~	Creature — Avatar
 Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
-Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
+Night's Whisper	ema	100	Premium Owned	Team Cut	Foil	2	B	~~	~~	Sorcery
 Restoration Angel	avr	32	Premium Owned	Team Cut	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
@@ -263,7 +263,7 @@ Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	dka	87	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
 Hopeful Initiate	vow	20	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Warlock
-Dread Fugue	vow	107	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
+Dread Fugue	vow	107	Premium Owned	Team Cut	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
 Primeval Titan	m11	192	Premium Owned	~~	Foil	6	G	~~	~~	Creature — Giant
 Cemetery Prowler	vow	191	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Wolf
@@ -297,7 +297,7 @@ Embercleave	eld	120	Owned	~~	Foil	3	R	~~	~~	Legendary Artifact — Equipment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Foil	3	R	~~	~~	Creature
 Otawara, Soaring City	neo	271	Owned	Team Cut	Foil	0	U	Blue	~~	Legendary Land
 Mawloc	40k	133	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Tyranid
-Evolved Sleeper	dmu	402	Owned	~~	Foil	1	B	~~	~~	Creature — Human
+Evolved Sleeper	dmu	402	Owned	Team Cut	Foil	1	B	~~	~~	Creature — Human
 Guardian of New Benalia	dmu	19	Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
 Cut Down	dmu	432	Owned	~~	Foil	1	B	~~	~~	Instant
 Quirion Beastcaller	dmu	175	Owned	~~	Foil	2	G	~~	~~	Creature — Dryad Warrior
@@ -319,7 +319,7 @@ Terminus	avr	38	Owned	~~	Foil	1	W	~~	~~	Sorcery
 Mystic Sanctuary	tsr	408	Owned	~~	Foil	0	U	Blue	~~	Land — Island
 Misery's Shadow	bro	107	Owned	~~	Foil	2	B	~~	~~	Creature — Shade
 Snuff Out	mmq	162	Owned	~~	Foil	0	B	~~	~~	Instant
-Vendetta	mmq	170	Owned	~~	Foil	1	B	~~	~~	Instant
+Vendetta	mmq	170	Owned	Team Cut	Foil	1	B	~~	~~	Instant
 Chromatic Sphere	inv	299	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Sheltered Thicket	akh	248	Owned	Team Cut	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
@@ -349,7 +349,7 @@ Endurance	mh2	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jewel Thief	snc	151	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Blackmail	ons	127	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Blackmail	ons	127	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Premium Owned	Team Cut	Foil	"""2"""	~~	~~	~~	~~
 Smoldering Egg	mid	159	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Knight of Autumn	grn	183	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
