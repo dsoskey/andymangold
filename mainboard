@@ -2,14 +2,14 @@ Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	Type
 Dauntless Bodyguard	dom	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
 Giver of Runes	h1r	3	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Kor Cleric
 Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier 
-Legion's Landing	pxtc	22	Premium Owned	~~	Foil	1	W	~~	~~	Creature
+Legion's Landing	pxtc	22	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature
 Mother of Runes	ulg	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Cleric
 Student of Warfare	roe	47	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
-Selfless Spirit	pemn	40s	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit Cleric
+Selfless Spirit	pemn	40s	Premium Owned	Team Cut	Foil	2	W	~~	~~	Creature — Spirit Cleric
 Stoneforge Mystic	pgpx	2016	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Kor Artificer
 Thalia, Guardian of Thraben	dka	24	Premium Owned	~~	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Monastery Mentor	frf	20	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Human Monk
-Thalia, Heretic Cathar	emn	46	Premium Owned	~~	Foil	3	W	~~	~~	Legendary Creature — Human Soldier
+Thalia, Heretic Cathar	emn	46	Premium Owned	Team Cut	Foil	3	W	~~	~~	Legendary Creature — Human Soldier
 Path to Exile	pdci	24	Premium Owned	~~	Foil	1	W	~~	~~	Instant
 Swords to Plowshares	f01	6	Premium Owned	~~	Foil	1	W	~~	~~	Instant
 Unexpectedly Absent	c13	25	Owned	~~	Non-foil	2	W	~~	~~	Instant
@@ -143,7 +143,7 @@ Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Wooded Foothills	ons	330	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
 Dismember	nph	57	Premium Owned	~~	Foil	1	~~	~~	~~	Instant
 Gitaxian Probe	nph	35	Premium Owned	~~	Foil	0	~~	~~	~~	Sorcery
-Cheeky House-Mouse	woe	7	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Cheeky House-Mouse	woe	7	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Brazen Borrower	eld	281	Premium Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
 Murderous Rider	eld	287	Owned	~~	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Premium Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
@@ -255,14 +255,14 @@ Grim Flayer	emn	184	Premium Owned	~~	Foil	2	B,G	~~	~~	Creature — Human Warrior
 Death's Shadow	sld	474	Owned	~~	Foil	1	B	~~	~~	Creature — Avatar
 Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
 Night's Whisper	ema	100	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
-Restoration Angel	avr	32	Premium Owned	~~	Foil	4	W	~~	~~	Creature — Angel
+Restoration Angel	avr	32	Premium Owned	Team Cut	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
 Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	dka	87	Premium Owned	~~	Foil	1	R	~~	~~	Sorcery
-Hopeful Initiate	vow	20	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Warlock
+Hopeful Initiate	vow	20	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Warlock
 Dread Fugue	vow	107	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
 Primeval Titan	m11	192	Premium Owned	~~	Foil	6	G	~~	~~	Creature — Giant
@@ -311,8 +311,8 @@ Supreme Verdict	prtr	201★	Owned	~~	Foil	4	W,U	~~	~~	Sorcery
 Faerie Vandal	eld	45	Owned	~~	Foil	2	U	~~	~~	Creature — Faerie Rogue
 Third Path Iconoclast	bro	223	Premium Owned	~~	Foil	2	R,U	~~	~~	Creature — Human Monk
 Adeline, Resplendent Cathar	mid	1	Owned	~~	Foil	3	W	~~	~~	Legendary Creature — Human Knight
-Anointed Peacekeeper	dmu	2	Owned	~~	Foil	3	W	~~	~~	Creature — Human Cleric
-Soul Partition	bro	26	Owned	~~	Foil	2	W	~~	~~	Instant
+Anointed Peacekeeper	dmu	2	Owned	Team Cut	Foil	3	W	~~	~~	Creature — Human Cleric
+Soul Partition	bro	26	Owned	Team Cut	Foil	2	W	~~	~~	Instant
 Irencrag Pyromancer	eld	128	Owned	~~	Foil	3	R	~~	~~	Creature — Human Wizard
 Glimmer Lens	onc	6	Owned	~~	Non-foil	2	W	~~	~~	Artifact — Equipment
 Terminus	avr	38	Owned	~~	Foil	1	W	~~	~~	Sorcery
@@ -325,8 +325,8 @@ Sheltered Thicket	akh	248	Owned	Team Cut	Foil	0	R,G	Multicolored	~~	Land — Mou
 Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Blade Splicer	nph	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Sevinne's Reclamation	dmr	273	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Blade Splicer	nph	4	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
+Sevinne's Reclamation	dmr	273	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
