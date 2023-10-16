@@ -90,17 +90,17 @@ Utopia Sprawl	dis	99	Premium Owned	~~	Foil	1	G	~~	~~	Enchantment — Aura
 Wild Growth	7ed	282★	Premium Owned	~~	Foil	1	G	~~	~~	Enchantment — Aura
 Sylvan Library	dmr	350	Owned	~~	Foil	2	G	~~	~~	Enchantment
 Gaea's Cradle	usg	321	Owned	~~	Non-foil	0	G	~~	~~	Legendary Land
-Hallowed Fountain	rtr	241	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
+Hallowed Fountain	rtr	241	Owned	Team Cut	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
 Hallowed Fountain	rna	251	Owned	~~	Foil	0	W,U	Multicolored	~~	Land — Plains Island
 Teferi, Time Raveler	pwar	221s	Premium Owned	~~	Foil	3	W,U	~~	~~	Legendary Planeswalker — Teferi
-Watery Grave	gtc	249	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
+Watery Grave	gtc	249	Owned	Team Cut	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Watery Grave	gtc	249	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Baleful Strix	ema	196	Premium Owned	~~	Foil	2	U,B	~~	~~	Artifact Creature — Bird
 Blood Crypt	rtr	238	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
-Blood Crypt	rna	245	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
+Blood Crypt	rna	245	Owned	Team Cut	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Kolaghan's Command	dtk	224	Owned	~~	Foil	3	B,R	~~	~~	Instant
 Stomping Ground	gtc	247	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
-Stomping Ground	gtc	247	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
+Stomping Ground	gtc	247	Owned	Team Cut	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Temple Garden	grn	258	Premium Owned	~~	Foil	0	W,G	Multicolored	~~	Land — Forest Plains
 Temple Garden	rtr	248	Owned	~~	Non-foil	0	W,G	Multicolored	~~	Land — Forest Plains
 Godless Shrine	gtc	242	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
@@ -111,11 +111,11 @@ Overgrown Tomb	grn	253	Premium Owned	~~	Foil	0	B,G	Multicolored	~~	Land — Swam
 Overgrown Tomb	rtr	243	Owned	~~	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
 Breeding Pool	gtc	240	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
 Breeding Pool	rna	246	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
-Steam Vents	rtr	247	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
+Steam Vents	rtr	247	Owned	Team Cut	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Steam Vents	rtr	247	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Fire // Ice	apc	128	Premium Owned	~~	Foil	2	U,R	Hybrid	~~	Instant 
 Sacred Foundry	gtc	245	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
-Sacred Foundry	gtc	245	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
+Sacred Foundry	gtc	245	Owned	Team Cut	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Figure of Destiny	pd2	5	Premium Owned	~~	Foil	1	W,R	Hybrid	~~	Creature — Kithkin
 Retrofitter Foundry	p23	4	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Sensei's Divining Top	chk	268	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact
@@ -126,7 +126,7 @@ Bomat Courier	kld	199	Premium Owned	~~	Foil	1	~~	Red	~~	Artifact Creature — Co
 Phyrexian Revoker	mbs	122	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Horror
 Smuggler's Copter	kld	235	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
 Walking Ballista	aer	181	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Construct
-Ancient Tomb	tmp	315	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Ancient Tomb	tmp	315	Owned	Team Cut	Non-foil	0	~~	~~	~~	Land
 Arid Mesa	mh2	436	Premium Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Bloodstained Mire	ons	313	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
 Flooded Strand	ons	316	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
@@ -134,11 +134,11 @@ Marsh Flats	zen	219	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Mishra's Factory	atq	80d	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Misty Rainforest	zen	220	Owned	~~	Non-foil	0	U,G	Hybrid	~~	Land
 Polluted Delta	ons	321	Owned	~~	Non-foil	0	U,B	Hybrid	~~	Land
-Prismatic Vista	h1r	40	Owned	~~	Foil	0	~~	~~	~~	Land
+Prismatic Vista	h1r	40	Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Rishadan Port	mmq	324	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Scalding Tarn	mh2	439	Premium Owned	~~	Foil	0	U,R	Hybrid	~~	Land
 Verdant Catacombs	zen	229	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
-Wasteland	mpr	1	Premium Owned	~~	Foil	0	~~	~~	~~	Land
+Wasteland	mpr	1	Premium Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Wooded Foothills	ons	330	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
 Dismember	nph	57	Premium Owned	~~	Foil	1	~~	~~	~~	Instant
@@ -157,7 +157,7 @@ Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
 Silent Clearing	mh1	246	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Fiery Islet	mh1	238	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
 Nurturing Peatland	mh1	243	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
-Mutavault	pgpx	2018	Premium Owned	~~	Foil	0	~~	~~	~~	Land
+Mutavault	pgpx	2018	Premium Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Knight of the Ebon Legion	m20	105	Premium Owned	~~	Foil	1	B	~~	~~	Creature — Vampire Knight
 Rimrock Knight	eld	294	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Knight
 Seasoned Hallowblade	m21	34	Owned	~~	Foil	2	W	~~	~~	Creature — Human Warrior
@@ -176,7 +176,7 @@ Faerie Guidemother	eld	274	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Faerie
 Sea Gate Stormcaller	znr	77	Owned	~~	Foil	2	U	~~	~~	Creature — Human Wizard
 Disfigure	zen	87	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Bloodchief's Thirst	znr	94	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
-Shatterskull Smashing	znr	161	Premium Owned	~~	Foil	0	R	Red	~~	Land
+Shatterskull Smashing	znr	161	Premium Owned	Team Cut	Foil	0	R	Red	~~	Land
 Explore	wwk	99	Premium Owned	~~	Foil	2	G	~~	~~	Sorcery
 Seal of Fire	nem	98	Premium Owned	~~	Foil	1	R	~~	~~	Enchantment
 Portent	ice	90	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
@@ -194,14 +194,14 @@ Verdant Catacombs	mh2	440	Premium Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Misty Rainforest	mh2	438	Premium Owned	~~	Foil	0	U,G	Hybrid	~~	Land
 Scalding Tarn	zen	223	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
 Arid Mesa	zen	211	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
-Hallowed Fountain	rna	251	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
+Hallowed Fountain	rna	251	Owned	Team Cut	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
 Watery Grave	grn	259	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Blood Crypt	rna	245	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Stomping Ground	rna	259	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
-Temple Garden	grn	258	Owned	~~	Non-foil	0	W,G	Multicolored	~~	Land — Forest Plains
-Godless Shrine	rna	248	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
-Overgrown Tomb	grn	253	Owned	~~	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
-Breeding Pool	rna	246	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
+Temple Garden	grn	258	Owned	Team Cut	Non-foil	0	W,G	Multicolored	~~	Land — Forest Plains
+Godless Shrine	rna	248	Owned	Team Cut	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
+Overgrown Tomb	grn	253	Owned	Team Cut	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
+Breeding Pool	rna	246	Owned	Team Cut	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
 Steam Vents	grn	257	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Sacred Foundry	grn	254	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Fetid Pools	akh	243	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
@@ -277,7 +277,7 @@ Takenuma, Abandoned Mire	neo	416	Owned	~~	Foil	0	B	Black	~~	Legendary Land
 Lion Sash	neo	26	Premium Owned	~~	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Eiganjo, Seat of the Empire	neo	268	Premium Owned	~~	Foil	0	W	White	~~	Legendary Land
 Rabbit Battery	neo	157	Owned	~~	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
-Boseiju, Who Endures	neo	412	Premium Owned	~~	Foil	0	G	Green	~~	Legendary Land
+Boseiju, Who Endures	neo	412	Premium Owned	Team Cut	Foil	0	G	Green	~~	Legendary Land
 Lethal Scheme	pncc	36p	Owned	~~	Foil	4	B	~~	~~	Instant
 Ledger Shredder	snc	46	Premium Owned	~~	Foil	2	U	~~	~~	Creature — Bird Advisor
 Titania, Protector of Argoth	mh2	416	Premium Owned	~~	Foil	5	G	~~	~~	Legendary Creature — Elemental
@@ -295,7 +295,7 @@ March of Otherworldly Light	neo	369	Owned	~~	Foil	2	W	~~	~~	Instant
 Mental Note	jud	46	Owned	~~	Foil	1	U	~~	~~	Instant
 Embercleave	eld	120	Owned	~~	Foil	3	R	~~	~~	Legendary Artifact — Equipment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Foil	3	R	~~	~~	Creature
-Otawara, Soaring City	neo	271	Owned	~~	Foil	0	U	Blue	~~	Legendary Land
+Otawara, Soaring City	neo	271	Owned	Team Cut	Foil	0	U	Blue	~~	Legendary Land
 Mawloc	40k	133	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Tyranid
 Evolved Sleeper	dmu	402	Owned	~~	Foil	1	B	~~	~~	Creature — Human
 Guardian of New Benalia	dmu	19	Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
@@ -321,7 +321,7 @@ Misery's Shadow	bro	107	Owned	~~	Foil	2	B	~~	~~	Creature — Shade
 Snuff Out	mmq	162	Owned	~~	Foil	0	B	~~	~~	Instant
 Vendetta	mmq	170	Owned	~~	Foil	1	B	~~	~~	Instant
 Chromatic Sphere	inv	299	Owned	~~	Foil	1	~~	~~	~~	Artifact
-Sheltered Thicket	akh	248	Owned	~~	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
+Sheltered Thicket	akh	248	Owned	Team Cut	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Anje's Ravager	c19	22	Owned	~~	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -358,4 +358,4 @@ Virtue of Persistence	woe	281	Owned	~~	Foil	"""2"""	~~	~~	~~	Sorcery
 Scalding Viper	woe	235	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
 Questing Druid	woe	294	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Mosswood Dreadknight	woe	292	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
-Restless Vinestalk	woe	261	Owned	~~	~~	"""~~"""	~~	Multicolored	~~	~~
+Restless Vinestalk	woe	261	Owned	Team Cut	~~	"""~~"""	~~	Multicolored	~~	~~
