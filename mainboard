@@ -4,7 +4,7 @@ Giver of Runes	h1r	3	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Kor Cleric
 Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier 
 Legion's Landing	pxtc	22	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature
 Mother of Runes	ulg	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Cleric
-Student of Warfare	roe	47	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
+Student of Warfare	roe	47	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Knight
 Selfless Spirit	pemn	40s	Premium Owned	Team Cut	Foil	2	W	~~	~~	Creature — Spirit Cleric
 Stoneforge Mystic	pgpx	2016	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Kor Artificer
 Thalia, Guardian of Thraben	dka	24	Premium Owned	~~	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
@@ -95,7 +95,7 @@ Hallowed Fountain	rna	251	Owned	~~	Foil	0	W,U	Multicolored	~~	Land — Plains Is
 Teferi, Time Raveler	pwar	221s	Premium Owned	~~	Foil	3	W,U	~~	~~	Legendary Planeswalker — Teferi
 Watery Grave	gtc	249	Owned	Team Cut	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Watery Grave	gtc	249	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
-Baleful Strix	ema	196	Premium Owned	~~	Foil	2	U,B	~~	~~	Artifact Creature — Bird
+Baleful Strix	ema	196	Premium Owned	Team Cut	Foil	2	U,B	~~	~~	Artifact Creature — Bird
 Blood Crypt	rtr	238	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Blood Crypt	rna	245	Owned	Team Cut	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Kolaghan's Command	dtk	224	Owned	~~	Foil	3	B,R	~~	~~	Instant
@@ -106,7 +106,7 @@ Temple Garden	rtr	248	Owned	~~	Non-foil	0	W,G	Multicolored	~~	Land — Forest Pl
 Godless Shrine	gtc	242	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
 Godless Shrine	rna	248	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
 Lingering Souls	tsr	296	Premium Owned	~~	Foil	3	W,B	Hybrid	~~	Sorcery
-Vindicate	apc	126	Premium Owned	~~	Foil	3	B,W	~~	~~	Sorcery
+Vindicate	apc	126	Premium Owned	Team Cut	Foil	3	B,W	~~	~~	Sorcery
 Overgrown Tomb	grn	253	Premium Owned	~~	Foil	0	B,G	Multicolored	~~	Land — Swamp Forest
 Overgrown Tomb	rtr	243	Owned	~~	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
 Breeding Pool	gtc	240	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
@@ -119,13 +119,13 @@ Sacred Foundry	gtc	245	Owned	Team Cut	Non-foil	0	W,R	Multicolored	~~	Land — Mo
 Figure of Destiny	pd2	5	Premium Owned	~~	Foil	1	W,R	Hybrid	~~	Creature — Kithkin
 Retrofitter Foundry	p23	4	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Sensei's Divining Top	chk	268	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact
-Skullclamp	dst	140	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
-Umezawa's Jitte	bok	163	Premium Owned	~~	Foil	2	~~	~~	~~	Legendary Artifact — Equipment
+Skullclamp	dst	140	Owned	Team Cut	Foil	1	~~	~~	~~	Artifact — Equipment
+Umezawa's Jitte	bok	163	Premium Owned	Team Cut	Foil	2	~~	~~	~~	Legendary Artifact — Equipment
 Grafted Wargear	5dn	126	Premium Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 Bomat Courier	kld	199	Premium Owned	~~	Foil	1	~~	Red	~~	Artifact Creature — Construct
-Phyrexian Revoker	mbs	122	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Horror
+Phyrexian Revoker	mbs	122	Premium Owned	Team Cut	Foil	2	~~	~~	~~	Artifact Creature — Horror
 Smuggler's Copter	kld	235	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
-Walking Ballista	aer	181	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact Creature — Construct
+Walking Ballista	aer	181	Premium Owned	Team Cut	Foil	2	~~	~~	~~	Artifact Creature — Construct
 Ancient Tomb	tmp	315	Owned	Team Cut	Non-foil	0	~~	~~	~~	Land
 Arid Mesa	mh2	436	Premium Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Bloodstained Mire	ons	313	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
@@ -168,8 +168,8 @@ Heartless Act	iko	91	Owned	~~	Foil	2	B	~~	~~	Instant
 Eliminate	m21	97	Owned	~~	Foil	2	B	~~	~~	Instant
 Eidolon of the Great Revel	jou	94	Owned	~~	Foil	2	R	~~	~~	Enchantment Creature — Spirit
 Horizon Canopy	ima	240	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
-Golos, Tireless Pilgrim	m20	226	Premium Owned	~~	Foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
-Lurrus of the Dream-Den	iko	355	Owned	~~	Foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
+Golos, Tireless Pilgrim	m20	226	Premium Owned	Team Cut	Foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
+Lurrus of the Dream-Den	iko	355	Owned	Team Cut	Foil	3	W,B	Hybrid	~~	Legendary Creature — Cat Nightmare
 Cryptic Command	ppro	2020-1	Owned	~~	Foil	4	U	~~	~~	Instant
 Thraben Inspector	tsr	305	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
 Faerie Guidemother	eld	274	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Faerie
@@ -248,17 +248,17 @@ Shelldock Isle	lrw	272	Premium Owned	~~	Foil	0	U	Blue	~~	Land
 Falkenrath Pit Fighter	mid	137	Premium Owned	Team Cut	Foil	1	R	~~	~~	Creature — Vampire Warrior
 Magmatic Channeler	znr	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Wizard
 Scourge of the Skyclaves	znr	343	Owned	~~	Foil	2	B	~~	~~	Creature — Demon
-Territorial Kavu	mh2	425	Owned	~~	Foil	2	G,R	~~	~~	Creature — Kavu
+Territorial Kavu	mh2	425	Owned	Team Cut	Foil	2	G,R	~~	~~	Creature — Kavu
 Skyclave Apparition	znr	322	Premium Owned	~~	Foil	3	W	~~	~~	Creature — Kor Spirit
 Sungold Sentinel	mid	332	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldier
 Grim Flayer	emn	184	Premium Owned	~~	Foil	2	B,G	~~	~~	Creature — Human Warrior
 Death's Shadow	sld	474	Owned	~~	Foil	1	B	~~	~~	Creature — Avatar
-Fractured Identity	sld	272	Premium Owned	~~	Foil	5	W,U	~~	~~	Sorcery
+Fractured Identity	sld	272	Premium Owned	Team Cut	Foil	5	W,U	~~	~~	Sorcery
 Night's Whisper	ema	100	Premium Owned	Team Cut	Foil	2	B	~~	~~	Sorcery
 Restoration Angel	avr	32	Premium Owned	Team Cut	Foil	4	W	~~	~~	Creature — Angel
 Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	Multicolored	~~	Land
 Tasigur, the Golden Fang	tsr	333	Premium Owned	~~	Foil	1	B	Black	~~	Legendary Creature — Human Shaman
-Leovold, Emissary of Trest	uma	202	Premium Owned	~~	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
+Leovold, Emissary of Trest	uma	202	Premium Owned	Team Cut	Foil	3	U,B,G	~~	~~	Legendary Creature — Elf Advisor
 Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	dka	87	Premium Owned	Team Cut	Foil	1	R	~~	~~	Sorcery
@@ -288,7 +288,7 @@ Collected Company	dtk	177	Owned	Team Cut	Foil	4	G	~~	~~	Instant
 Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
 Spell Queller	emn	189	Premium Owned	~~	Foil	3	U,W	~~	~~	Creature — Spirit
 Bedlam Reveler	tsr	340	Owned	~~	Foil	2	R	~~	~~	Creature — Devil Horror
-Electrolyze	gpt	111	Owned	~~	Foil	3	U,R	~~	~~	Instant
+Electrolyze	gpt	111	Owned	Team Cut	Foil	3	U,R	~~	~~	Instant
 Eternal Witness	tsr	361	Owned	~~	Foil	3	G	~~	~~	Creature — Human Shaman
 Witherbloom Command	stx	248	Owned	~~	Foil	2	B,G	~~	~~	Sorcery
 March of Otherworldly Light	neo	369	Owned	~~	Foil	2	W	~~	~~	Instant
@@ -302,7 +302,7 @@ Guardian of New Benalia	dmu	19	Owned	~~	Foil	2	W	~~	~~	Creature — Human Soldie
 Cut Down	dmu	432	Owned	~~	Foil	1	B	~~	~~	Instant
 Quirion Beastcaller	dmu	175	Owned	~~	Foil	2	G	~~	~~	Creature — Dryad Warrior
 Electrostatic Infantry	dmu	122	Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Wizard
-Manamorphose	shm	211	Owned	~~	Foil	2	R,G	Hybrid	~~	Instant
+Manamorphose	shm	211	Owned	Team Cut	Foil	2	R,G	Hybrid	~~	Instant
 Timeless Dragon	mh2	388	Owned	~~	Foil	5	W	~~	~~	Creature — Dragon
 Archmage's Charm	h1r	7	Owned	~~	Foil	3	U	~~	~~	Instant
 Teferi, Temporal Pilgrim	bro	66	Owned	Team Cut	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
@@ -320,7 +320,7 @@ Mystic Sanctuary	tsr	408	Owned	~~	Foil	0	U	Blue	~~	Land — Island
 Misery's Shadow	bro	107	Owned	~~	Foil	2	B	~~	~~	Creature — Shade
 Snuff Out	mmq	162	Owned	~~	Foil	0	B	~~	~~	Instant
 Vendetta	mmq	170	Owned	Team Cut	Foil	1	B	~~	~~	Instant
-Chromatic Sphere	inv	299	Owned	~~	Foil	1	~~	~~	~~	Artifact
+Chromatic Sphere	inv	299	Owned	Team Cut	Foil	1	~~	~~	~~	Artifact
 Sheltered Thicket	akh	248	Owned	Team Cut	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Anje's Ravager	c19	22	Owned	Team Cut	Non-foil	3	R	~~	~~	Creature — Vampire Berserker
 Elspeth's Smite	mom	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -343,8 +343,8 @@ Orcish Bowmasters	ltr	433	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reprieve	ltr	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Stern Scolding	ltr	71	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Urborg Scavengers	mat	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Hogaak, Arisen Necropolis	mh1	202	Owned	~~	~~	"""2"""	~~	Hybrid	~~	~~
-Flame of Anor	ltr	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Hogaak, Arisen Necropolis	mh1	202	Owned	Team Cut	~~	"""2"""	~~	Hybrid	~~	~~
+Flame of Anor	ltr	203	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Endurance	mh2	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jewel Thief	snc	151	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -352,10 +352,10 @@ Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blackmail	ons	127	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	Premium Owned	Team Cut	Foil	"""2"""	~~	~~	~~	~~
 Smoldering Egg	mid	159	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
-Knight of Autumn	grn	183	Premium Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Elusive Otter	woe	289	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Knight of Autumn	grn	183	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
+Elusive Otter	woe	289	Owned	Team Cut	~~	"""~~"""	~~	Hybrid	~~	~~
 Virtue of Persistence	woe	281	Owned	~~	Foil	"""2"""	~~	~~	~~	Sorcery
-Scalding Viper	woe	235	Owned	~~	~~	"""~~"""	~~	Hybrid	~~	~~
+Scalding Viper	woe	235	Owned	Team Cut	~~	"""~~"""	~~	Hybrid	~~	~~
 Questing Druid	woe	294	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Mosswood Dreadknight	woe	292	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Restless Vinestalk	woe	261	Owned	Team Cut	~~	"""~~"""	~~	Multicolored	~~	~~
