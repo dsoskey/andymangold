@@ -132,12 +132,12 @@ Bloodstained Mire	ons	313	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
 Flooded Strand	ons	316	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
 Marsh Flats	zen	219	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Mishra's Factory	atq	80d	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Misty Rainforest	zen	220	Owned	~~	Non-foil	0	U,G	Hybrid	~~	Land
+Misty Rainforest	zen	220	Owned	~~	Foil	0	U,G	Hybrid	~~	Land
 Polluted Delta	ons	321	Owned	~~	Non-foil	0	U,B	Hybrid	~~	Land
 Prismatic Vista	h1r	40	Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Rishadan Port	mmq	324	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Scalding Tarn	mh2	439	Premium Owned	~~	Foil	0	U,R	Hybrid	~~	Land
-Verdant Catacombs	zen	229	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
+Verdant Catacombs	zen	229	Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Wasteland	mpr	1	Premium Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Windswept Heath	ons	328	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Wooded Foothills	ons	330	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
@@ -152,10 +152,10 @@ Uro, Titan of Nature's Wrath	sld	222	Premium Owned	~~	Foil	3	U,G	~~	~~	Legendary
 Unearth	ulg	72	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Censor	akh	46	Premium Owned	Team Cut	Foil	2	U	~~	~~	Instant
 Oust	roe	40	Owned	~~	Foil	1	W	~~	~~	Sorcery
-Waterlogged Grove	mh1	249	Owned	~~	Non-foil	0	U,G	Hybrid	~~	Land
-Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
+Waterlogged Grove	mh1	249	Owned	~~	Foil	0	U,G	Hybrid	~~	Land
+Sunbaked Canyon	mh1	247	Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Silent Clearing	mh1	246	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
-Fiery Islet	mh1	238	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
+Fiery Islet	mh1	238	Owned	~~	Foil	0	U,R	Hybrid	~~	Land
 Nurturing Peatland	mh1	243	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
 Mutavault	pgpx	2018	Premium Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Knight of the Ebon Legion	m20	105	Premium Owned	~~	Foil	1	B	~~	~~	Creature — Vampire Knight
@@ -186,14 +186,14 @@ Bloodsky Berserker	khm	80	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Ber
 Ulcerate	m15	119	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
 Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	Hybrid	~~	Land
-Bloodstained Mire	ktk	230	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
-Wooded Foothills	ktk	249	Owned	~~	Non-foil	0	R,G	Hybrid	~~	Land
+Bloodstained Mire	g09	6	Owned	~~	Foil	0	B,R	Hybrid	~~	Land
+Wooded Foothills	g09	10	Owned	~~	Foil	0	R,G	Hybrid	~~	Land
 Windswept Heath	ktk	248	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Marsh Flats	mh2	437	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Verdant Catacombs	mh2	440	Premium Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Misty Rainforest	mh2	438	Premium Owned	~~	Foil	0	U,G	Hybrid	~~	Land
-Scalding Tarn	zen	223	Owned	~~	Non-foil	0	U,R	Hybrid	~~	Land
-Arid Mesa	zen	211	Owned	~~	Non-foil	0	W,R	Hybrid	~~	Land
+Scalding Tarn	zen	223	Owned	~~	Foil	0	U,R	Hybrid	~~	Land
+Arid Mesa	zen	211	Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Hallowed Fountain	rna	251	Owned	Team Cut	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
 Watery Grave	grn	259	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Blood Crypt	rna	245	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
