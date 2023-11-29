@@ -50,7 +50,7 @@ Duress	pal00	2	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Inquisition of Kozilek	cn2	140	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Thoughtseize	tsr	334	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Collective Brutality	emn	85	Premium Owned	~~	Foil	2	B	~~	~~	Sorcery
-Toxic Deluge	2xm	345	Premium Owned	~~	Foil	3	B	~~	~~	Sorcery
+Toxic Deluge	2xm	110	Premium Owned	~~	Foil	3	B	~~	~~	Sorcery
 Damnation	plc	85	Premium Owned	Team Cut	Foil	4	B	~~	~~	Sorcery
 Goblin Guide	plg21	4	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Goblin Scout
 Grim Lavamancer	tor	100	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Wizard
@@ -90,27 +90,27 @@ Utopia Sprawl	dis	99	Premium Owned	~~	Foil	1	G	~~	~~	Enchantment — Aura
 Wild Growth	7ed	282★	Premium Owned	~~	Foil	1	G	~~	~~	Enchantment — Aura
 Sylvan Library	dmr	350	Owned	~~	Foil	2	G	~~	~~	Enchantment
 Gaea's Cradle	usg	321	Owned	~~	Non-foil	0	G	~~	~~	Legendary Land
-Hallowed Fountain	rtr	241	Owned	Team Cut	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
+Hallowed Fountain	rtr	241	Owned	Team Cut	Foil	0	W,U	Multicolored	~~	Land — Plains Island
 Hallowed Fountain	rna	251	Owned	~~	Foil	0	W,U	Multicolored	~~	Land — Plains Island
 Teferi, Time Raveler	pwar	221s	Premium Owned	~~	Foil	3	W,U	~~	~~	Legendary Planeswalker — Teferi
 Watery Grave	gtc	249	Owned	Team Cut	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Watery Grave	gtc	249	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Baleful Strix	ema	196	Premium Owned	Team Cut	Foil	2	U,B	~~	~~	Artifact Creature — Bird
-Blood Crypt	rtr	238	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
+Blood Crypt	rtr	238	Owned	~~	Foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Blood Crypt	rna	245	Owned	Team Cut	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Kolaghan's Command	dtk	224	Owned	~~	Foil	3	B,R	~~	~~	Instant
 Stomping Ground	gtc	247	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Stomping Ground	gtc	247	Owned	Team Cut	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Temple Garden	grn	258	Premium Owned	~~	Foil	0	W,G	Multicolored	~~	Land — Forest Plains
-Temple Garden	rtr	248	Owned	~~	Non-foil	0	W,G	Multicolored	~~	Land — Forest Plains
+Temple Garden	rtr	248	Owned	~~	Foil	0	W,G	Multicolored	~~	Land — Forest Plains
 Godless Shrine	gtc	242	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
 Godless Shrine	rna	248	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
 Lingering Souls	tsr	296	Premium Owned	~~	Foil	3	W,B	Hybrid	~~	Sorcery
 Vindicate	apc	126	Premium Owned	~~	Foil	3	B,W	~~	~~	Sorcery
 Overgrown Tomb	grn	253	Premium Owned	~~	Foil	0	B,G	Multicolored	~~	Land — Swamp Forest
 Overgrown Tomb	rtr	243	Owned	~~	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
-Breeding Pool	gtc	240	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
-Breeding Pool	rna	246	Owned	~~	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
+Breeding Pool	gtc	240	Owned	~~	Foil	0	U,G	Multicolored	~~	Land — Forest Island
+Breeding Pool	dis	172	Owned	~~	Foil	0	U,G	Multicolored	~~	Land — Forest Island
 Steam Vents	rtr	247	Owned	Team Cut	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Steam Vents	rtr	247	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Fire // Ice	apc	128	Premium Owned	~~	Foil	2	U,R	Hybrid	~~	Instant 
@@ -185,7 +185,7 @@ Clarion Spirit	khm	6	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit
 Bloodsky Berserker	khm	80	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Berserker
 Ulcerate	m15	119	Premium Owned	~~	Foil	1	B	~~	~~	Instant
 Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
-Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	Hybrid	~~	Land
+Polluted Delta	g09	8	Owned	~~	Foil	0	U,B	Hybrid	~~	Land
 Bloodstained Mire	g09	6	Owned	~~	Foil	0	B,R	Hybrid	~~	Land
 Wooded Foothills	g09	10	Owned	~~	Foil	0	R,G	Hybrid	~~	Land
 Windswept Heath	ktk	248	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
