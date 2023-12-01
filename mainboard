@@ -2,7 +2,6 @@ Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	Type
 Dauntless Bodyguard	dom	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
 Giver of Runes	h1r	3	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Kor Cleric
 Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier 
-Legion's Landing	pxtc	22	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature
 Mother of Runes	ulg	14	Premium Owned	~~	Foil	1	W	~~	~~	Creature — Human Cleric
 Student of Warfare	roe	47	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Knight
 Selfless Spirit	pemn	40s	Premium Owned	Team Cut	Foil	2	W	~~	~~	Creature — Spirit Cleric
@@ -44,7 +43,6 @@ Kitesail Freebooter	xln	110	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human P
 Liliana of the Veil	dmu	97	Owned	~~	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Liliana, the Last Hope	2x2	333	Owned	Team Cut	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Fatal Push	f17	8	Premium Owned	~~	Foil	1	B	~~	~~	Instant
-Cast Down	dom	81	Premium Owned	Team Cut	Foil	2	B	~~	~~	Instant
 Go for the Throat	f11	11	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Duress	pal00	2	Premium Owned	~~	Foil	1	B	~~	~~	Sorcery
 Inquisition of Kozilek	cn2	140	Owned	~~	Foil	1	B	~~	~~	Sorcery
@@ -57,7 +55,6 @@ Grim Lavamancer	tor	100	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Wizar
 Monastery Swiftspear	tsr	349	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Monk
 Soul-Scar Mage	akh	148	Premium Owned	~~	Foil	1	R	~~	~~	Creature — Human Wizard
 Zurgo Bellstriker	dtk	169	Premium Owned	Team Cut	Foil	1	R	~~	~~	Legendary Creature — Orc Warrior
-Kari Zev, Skyship Raider	aer	87	Premium Owned	Team Cut	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Young Pyromancer	tsr	353	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Shaman
 Goblin Rabblemaster	p30a	22	Premium Owned	Team Cut	Foil	3	R	~~	~~	Creature — Goblin Warrior
 Seasoned Pyromancer	2x2	123	Premium Owned	~~	Foil	3	R	~~	~~	Creature — Human Shaman
@@ -74,7 +71,6 @@ Arbor Elf	wwk	95	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Avacyn's Pilgrim	isd	170	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Monk
 Birds of Paradise	7ed	231★	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Bird
 Elves of Deep Shadow	rav	161	Owned	Team Cut	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Gilded Goose	eld	160	Premium Owned	Team Cut	Foil	1	G	~~	~~	Creature — Bird
 Exploration	usg	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	fnm	11	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	j12	3	Premium Owned	~~	Foil	1	G	~~	~~	Creature — Human Druid
@@ -126,7 +122,6 @@ Bomat Courier	kld	199	Premium Owned	~~	Foil	1	~~	Red	~~	Artifact Creature — Co
 Phyrexian Revoker	mbs	122	Premium Owned	Team Cut	Foil	2	~~	~~	~~	Artifact Creature — Horror
 Smuggler's Copter	kld	235	Premium Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
 Walking Ballista	aer	181	Premium Owned	Team Cut	Foil	2	~~	~~	~~	Artifact Creature — Construct
-Ancient Tomb	tmp	315	Owned	Team Cut	Non-foil	0	~~	~~	~~	Land
 Arid Mesa	mh2	436	Premium Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Bloodstained Mire	ons	313	Owned	~~	Non-foil	0	B,R	Hybrid	~~	Land
 Flooded Strand	ons	316	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
@@ -164,7 +159,6 @@ Seasoned Hallowblade	m21	34	Owned	~~	Foil	2	W	~~	~~	Creature — Human Warrior
 Shark Typhoon	iko	319	Owned	~~	Foil	6	U	~~	~~	Enchantment
 Force of Will	ema	49	Premium Owned	~~	Foil	0	U	~~	~~	Instant
 Force of Negation	h1r	9	Owned	~~	Foil	0	U	~~	~~	Instant
-Heartless Act	iko	91	Owned	~~	Foil	2	B	~~	~~	Instant
 Eliminate	m21	97	Owned	~~	Foil	2	B	~~	~~	Instant
 Eidolon of the Great Revel	jou	94	Owned	~~	Foil	2	R	~~	~~	Enchantment Creature — Spirit
 Horizon Canopy	fut	177	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
@@ -237,7 +231,6 @@ Den of the Bugbear	afr	254	Owned	~~	Foil	0	R	Red	~~	Land
 Cave of the Frost Dragon	afr	253	Owned	~~	Foil	0	W	White	~~	Land
 Hive of the Eye Tyrant	afr	258	Owned	~~	Foil	0	B	Black	~~	Land
 Knight of the Reliquary	tsr	379	Owned	~~	Foil	3	W,G	~~	~~	Creature — Human Knight
-Master of Death	mh2	205	Owned	~~	Foil	3	B,U	~~	~~	Creature — Zombie Wizard
 Sprite Dragon	iko	211	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Scavenging Ooze	plg21	5	Owned	~~	Foil	2	G	~~	~~	Creature — Ooze
 Consider	mid	388	Premium Owned	~~	Foil	1	U	~~	~~	Instant
@@ -245,7 +238,6 @@ Cling to Dust	thb	87	Owned	~~	Foil	1	B	~~	~~	Instant
 Infernal Grasp	mid	107	Premium Owned	~~	Foil	2	B	~~	~~	Instant
 Field of the Dead	m20	247	Premium Owned	~~	Foil	0	~~	~~	~~	Land
 Shelldock Isle	lrw	272	Premium Owned	~~	Foil	0	U	Blue	~~	Land
-Falkenrath Pit Fighter	mid	137	Premium Owned	Team Cut	Foil	1	R	~~	~~	Creature — Vampire Warrior
 Magmatic Channeler	znr	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Human Wizard
 Scourge of the Skyclaves	znr	343	Owned	~~	Foil	2	B	~~	~~	Creature — Demon
 Territorial Kavu	mh2	425	Owned	Team Cut	Foil	2	G,R	~~	~~	Creature — Kavu
@@ -263,7 +255,6 @@ Expressive Iteration	stx	379	Premium Owned	~~	Foil	2	U,R	~~	~~	Sorcery
 Elvish Reclaimer	m20	169	Owned	~~	Foil	1	G	~~	~~	Creature — Elf Warrior
 Faithless Looting	dka	87	Premium Owned	Team Cut	Foil	1	R	~~	~~	Sorcery
 Hopeful Initiate	vow	20	Premium Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Warlock
-Dread Fugue	vow	107	Premium Owned	Team Cut	Foil	1	B	~~	~~	Sorcery
 Cemetery Gatekeeper	vow	148	Premium Owned	~~	Foil	2	R	~~	~~	Creature — Vampire
 Primeval Titan	m11	192	Premium Owned	~~	Foil	6	G	~~	~~	Creature — Giant
 Cemetery Prowler	vow	191	Premium Owned	~~	Foil	3	G	~~	~~	Creature — Wolf
@@ -343,19 +334,28 @@ Orcish Bowmasters	ltr	433	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reprieve	ltr	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Stern Scolding	ltr	71	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Urborg Scavengers	mat	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Hogaak, Arisen Necropolis	mh1	202	Owned	Team Cut	~~	"""2"""	~~	Hybrid	~~	~~
 Flame of Anor	ltr	203	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Endurance	mh2	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Jewel Thief	snc	151	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blackmail	ons	127	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
-Stormwing Entity	m21	73	Premium Owned	Team Cut	Foil	"""2"""	~~	~~	~~	~~
-Smoldering Egg	mid	159	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
-Knight of Autumn	grn	183	Premium Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Elusive Otter	woe	289	Owned	Team Cut	~~	"""~~"""	~~	Hybrid	~~	~~
 Virtue of Persistence	woe	281	Owned	~~	Foil	"""2"""	~~	~~	~~	Sorcery
 Scalding Viper	woe	235	Owned	Team Cut	~~	"""~~"""	~~	Hybrid	~~	~~
 Questing Druid	woe	294	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Mosswood Dreadknight	woe	292	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Restless Vinestalk	woe	261	Owned	Team Cut	~~	"""~~"""	~~	Multicolored	~~	~~
+Lórien Revealed	ltr	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tishana's Tidebinder	lci	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Inti, Seneschal of the Sun	lci	295	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bitter Triumph	lci	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Meathook Massacre	mid	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sheoldred's Edict	one	279	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Anim Pakal, Thousandth Moon	lci	300	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kird Ape	f05	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wild Nacatl	ala	152	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Loam Lion	wwk	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sentinel of the Nameless City	lci	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Jadelight Spelunker	lci	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stalactite Stalker	lci	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kellan, Daring Traveler	lci	231	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
