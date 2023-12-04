@@ -89,29 +89,29 @@ Gaea's Cradle	usg	321	Owned	~~	Non-foil	0	G	~~	~~	Legendary Land
 Hallowed Fountain	rtr	241	Owned	Team Cut	Foil	0	W,U	Multicolored	~~	Land — Plains Island
 Hallowed Fountain	rna	251	Owned	~~	Foil	0	W,U	Multicolored	~~	Land — Plains Island
 Teferi, Time Raveler	pwar	221s	Premium Owned	~~	Foil	3	W,U	~~	~~	Legendary Planeswalker — Teferi
-Watery Grave	gtc	249	Owned	Team Cut	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
+Watery Grave	gtc	249	Owned	Team Cut	Foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Watery Grave	rav	286	Owned	~~	Foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Baleful Strix	ema	196	Premium Owned	Team Cut	Foil	2	U,B	~~	~~	Artifact Creature — Bird
 Blood Crypt	rtr	238	Owned	~~	Foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Blood Crypt	rna	245	Owned	Team Cut	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
 Kolaghan's Command	dtk	224	Owned	~~	Foil	3	B,R	~~	~~	Instant
-Stomping Ground	gtc	247	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
-Stomping Ground	gtc	247	Owned	Team Cut	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
+Stomping Ground	gtc	247	Owned	~~	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
+Stomping Ground	gpt	165	Owned	Team Cut	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
 Temple Garden	grn	258	Premium Owned	~~	Foil	0	W,G	Multicolored	~~	Land — Forest Plains
 Temple Garden	rtr	248	Owned	~~	Foil	0	W,G	Multicolored	~~	Land — Forest Plains
 Godless Shrine	gtc	242	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
-Godless Shrine	rna	248	Owned	~~	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
+Godless Shrine	rna	248	Owned	~~	Foil	0	W,B	Multicolored	~~	Land — Plains Swamp
 Lingering Souls	tsr	296	Premium Owned	~~	Foil	3	W,B	Hybrid	~~	Sorcery
 Vindicate	apc	126	Premium Owned	~~	Foil	3	B,W	~~	~~	Sorcery
 Overgrown Tomb	grn	253	Premium Owned	~~	Foil	0	B,G	Multicolored	~~	Land — Swamp Forest
-Overgrown Tomb	rtr	243	Owned	~~	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
+Overgrown Tomb	rtr	243	Owned	~~	Foil	0	B,G	Multicolored	~~	Land — Swamp Forest
 Breeding Pool	gtc	240	Owned	~~	Foil	0	U,G	Multicolored	~~	Land — Forest Island
 Breeding Pool	dis	172	Owned	~~	Foil	0	U,G	Multicolored	~~	Land — Forest Island
-Steam Vents	rtr	247	Owned	Team Cut	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
-Steam Vents	rtr	247	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
+Steam Vents	gpt	164	Owned	Team Cut	Foil	0	U,R	Multicolored	~~	Land — Island Mountain
+Steam Vents	rtr	247	Owned	~~	Foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Fire // Ice	apc	128	Premium Owned	~~	Foil	2	U,R	Hybrid	~~	Instant 
-Sacred Foundry	gtc	245	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
-Sacred Foundry	gtc	245	Owned	Team Cut	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
+Sacred Foundry	rav	280	Owned	~~	Foil	0	W,R	Multicolored	~~	Land — Mountain Plains
+Sacred Foundry	gtc	245	Owned	Team Cut	Foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Figure of Destiny	pd2	5	Premium Owned	~~	Foil	1	W,R	Hybrid	~~	Creature — Kithkin
 Retrofitter Foundry	p23	4	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Sensei's Divining Top	chk	268	Premium Owned	~~	Foil	1	~~	~~	~~	Artifact
@@ -178,11 +178,11 @@ Esika's Chariot	khm	315	Premium Owned	~~	Foil	4	G	~~	~~	Legendary Artifact — V
 Clarion Spirit	khm	6	Premium Owned	~~	Foil	2	W	~~	~~	Creature — Spirit
 Bloodsky Berserker	khm	80	Premium Owned	~~	Foil	2	B	~~	~~	Creature — Human Berserker
 Ulcerate	m15	119	Premium Owned	~~	Foil	1	B	~~	~~	Instant
-Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
+Flooded Strand	g09	7	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
 Polluted Delta	g09	8	Owned	~~	Foil	0	U,B	Hybrid	~~	Land
 Bloodstained Mire	g09	6	Owned	~~	Foil	0	B,R	Hybrid	~~	Land
 Wooded Foothills	g09	10	Owned	~~	Foil	0	R,G	Hybrid	~~	Land
-Windswept Heath	ktk	248	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
+Windswept Heath	g09	9	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
 Marsh Flats	mh2	437	Premium Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Verdant Catacombs	mh2	440	Premium Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Misty Rainforest	mh2	438	Premium Owned	~~	Foil	0	U,G	Hybrid	~~	Land
@@ -190,13 +190,13 @@ Scalding Tarn	zen	223	Owned	~~	Foil	0	U,R	Hybrid	~~	Land
 Arid Mesa	zen	211	Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Hallowed Fountain	rna	251	Owned	Team Cut	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
 Watery Grave	grn	259	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
-Blood Crypt	rna	245	Owned	~~	Non-foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
-Stomping Ground	rna	259	Owned	~~	Non-foil	0	R,G	Multicolored	~~	Land — Mountain Forest
-Temple Garden	grn	258	Owned	Team Cut	Non-foil	0	W,G	Multicolored	~~	Land — Forest Plains
-Godless Shrine	rna	248	Owned	Team Cut	Non-foil	0	W,B	Multicolored	~~	Land — Plains Swamp
-Overgrown Tomb	grn	253	Owned	Team Cut	Non-foil	0	B,G	Multicolored	~~	Land — Swamp Forest
-Breeding Pool	rna	246	Owned	Team Cut	Non-foil	0	U,G	Multicolored	~~	Land — Forest Island
-Steam Vents	grn	257	Owned	~~	Non-foil	0	U,R	Multicolored	~~	Land — Island Mountain
+Blood Crypt	dis	171	Owned	~~	Foil	0	B,R	Multicolored	~~	Land — Swamp Mountain
+Stomping Ground	rna	259	Owned	~~	Foil	0	R,G	Multicolored	~~	Land — Mountain Forest
+Temple Garden	rav	284	Owned	Team Cut	Foil	0	W,G	Multicolored	~~	Land — Forest Plains
+Godless Shrine	gpt	157	Owned	Team Cut	Foil	0	W,B	Multicolored	~~	Land — Plains Swamp
+Overgrown Tomb	rav	279	Owned	Team Cut	Foil	0	B,G	Multicolored	~~	Land — Swamp Forest
+Breeding Pool	rna	246	Owned	Team Cut	Foil	0	U,G	Multicolored	~~	Land — Forest Island
+Steam Vents	grn	257	Owned	~~	Foil	0	U,R	Multicolored	~~	Land — Island Mountain
 Sacred Foundry	grn	254	Owned	~~	Non-foil	0	W,R	Multicolored	~~	Land — Mountain Plains
 Fetid Pools	akh	243	Owned	~~	Non-foil	0	U,B	Multicolored	~~	Land — Island Swamp
 Irrigated Farmland	akh	245	Owned	~~	Non-foil	0	W,U	Multicolored	~~	Land — Plains Island
@@ -352,7 +352,7 @@ Bitter Triumph	lci	91	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 The Meathook Massacre	mid	112	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred's Edict	one	279	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Anim Pakal, Thousandth Moon	lci	300	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Kird Ape	f05	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kird Ape	f05	9	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wild Nacatl	ala	152	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Loam Lion	wwk	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sentinel of the Nameless City	lci	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
