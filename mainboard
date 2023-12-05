@@ -178,11 +178,11 @@ Esika's Chariot	khm	315	Owned	~~	Foil	4	G	~~	~~	Legendary Artifact — Vehicle
 Clarion Spirit	khm	6	Owned	~~	Foil	2	W	~~	~~	Creature — Spirit
 Bloodsky Berserker	khm	80	Owned	~~	Foil	2	B	~~	~~	Creature — Human Berserker
 Ulcerate	m15	119	Owned	~~	Foil	1	B	~~	~~	Instant
-Flooded Strand	g09	7	Owned	~~	Non-foil	0	W,U	Hybrid	~~	Land
+Flooded Strand	g09	7	Owned	~~	Foil	0	W,U	Hybrid	~~	Land
 Polluted Delta	g09	8	Owned	~~	Foil	0	U,B	Hybrid	~~	Land
 Bloodstained Mire	g09	6	Owned	~~	Foil	0	B,R	Hybrid	~~	Land
 Wooded Foothills	g09	10	Owned	~~	Foil	0	R,G	Hybrid	~~	Land
-Windswept Heath	g09	9	Owned	~~	Non-foil	0	W,G	Hybrid	~~	Land
+Windswept Heath	g09	9	Owned	~~	Foil	0	W,G	Hybrid	~~	Land
 Marsh Flats	mh2	437	Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Verdant Catacombs	mh2	440	Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Misty Rainforest	mh2	438	Owned	~~	Foil	0	U,G	Hybrid	~~	Land
@@ -356,6 +356,6 @@ Kird Ape	f05	9	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wild Nacatl	ala	152	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Loam Lion	wwk	13	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sentinel of the Nameless City	lci	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Jadelight Spelunker	lci	196	Owned	~~	~~	"""3"""	~~	~~	~~	~~
+Jadelight Spelunker	lci	196	Owned	~~	Foil	"""3"""	~~	~~	~~	~~
 Stalactite Stalker	lci	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Kellan, Daring Traveler	lci	231	Owned	~~	Foil	"""~~"""	W	White	~~	~~
