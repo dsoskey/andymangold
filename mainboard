@@ -1,7 +1,7 @@
 Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	TypeLine
 Dauntless Bodyguard	dom	14	Owned	~~	Foil	1	W	~~	~~	Creature — Human Knight
 Giver of Runes	h1r	3	Owned	~~	Foil	1	W	~~	~~	Creature — Kor Cleric
-Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier 
+Kytheon, Hero of Akros	ori	23	Owned	~~	Foil	1	W	~~	~~	Legendary Creature — Human Soldier 
 Mother of Runes	ulg	14	Owned	~~	Foil	1	W	~~	~~	Creature — Human Cleric
 Student of Warfare	roe	47	Owned	Team Cut	Foil	1	W	~~	~~	Creature — Human Knight
 Selfless Spirit	pemn	40s	Owned	Team Cut	Foil	2	W	~~	~~	Creature — Spirit Cleric
@@ -78,8 +78,8 @@ Lotus Cobra	pgpx	2012b	Owned	~~	Foil	2	G	~~	~~	Creature — Snake
 Tireless Tracker	soi	233	Owned	~~	Foil	3	G	~~	~~	Creature — Human Scout
 Green Sun's Zenith	mbs	81	Owned	~~	Foil	"""4"""	G	~~	~~	Creature
 Voracious Hydra	m20	200	Owned	Team Cut	Foil	"""4"""	G	~~	~~	Creature — Hydra
-Garruk Relentless	isd	181	Owned	~~	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk 
-Nissa, Who Shakes the World	sld	518	Owned	~~	Foil	5	G	~~	~~	Legendary Planeswalker — Nissa
+Garruk Relentless	isd	181	Owned	~~	Foil	4	G	~~	~~	Legendary Planeswalker — Garruk 
+Whisperwood Elemental	frf	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Once Upon a Time	eld	169	Owned	~~	Foil	0	G	~~	~~	Instant
 Edge of Autumn	fut	144	Owned	~~	Foil	2	G	~~	~~	Sorcery
 Utopia Sprawl	dis	99	Owned	~~	Foil	1	G	~~	~~	Enchantment — Aura
@@ -140,7 +140,6 @@ Dismember	nph	57	Owned	~~	Foil	1	~~	~~	~~	Instant
 Gitaxian Probe	nph	35	Owned	~~	Foil	0	~~	~~	~~	Sorcery
 Cheeky House-Mouse	woe	7	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Brazen Borrower	eld	281	Owned	~~	Foil	2	U	~~	~~	Instant — Adventure
-Murderous Rider	eld	287	Owned	Team Cut	Foil	3	B	~~	~~	Instant — Adventure
 Bonecrusher Giant	eld	291	Owned	~~	Foil	2	R	~~	~~	Instant — Adventure
 Primordial Mist	c18	12	Owned	~~	Non-foil	5	U	~~	~~	Enchantment
 Uro, Titan of Nature's Wrath	sld	222	Owned	~~	Foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
@@ -151,7 +150,7 @@ Waterlogged Grove	mh1	249	Owned	~~	Foil	0	U,G	Hybrid	~~	Land
 Sunbaked Canyon	mh1	247	Owned	~~	Foil	0	W,R	Hybrid	~~	Land
 Silent Clearing	mh1	246	Owned	~~	Foil	0	W,B	Hybrid	~~	Land
 Fiery Islet	mh1	238	Owned	~~	Foil	0	U,R	Hybrid	~~	Land
-Nurturing Peatland	mh1	243	Owned	~~	Non-foil	0	B,G	Hybrid	~~	Land
+Nurturing Peatland	mh1	243	Owned	~~	Foil	0	B,G	Hybrid	~~	Land
 Mutavault	pgpx	2018	Owned	Team Cut	Foil	0	~~	~~	~~	Land
 Knight of the Ebon Legion	m20	105	Owned	~~	Foil	1	B	~~	~~	Creature — Vampire Knight
 Rimrock Knight	eld	294	Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Knight
@@ -171,7 +170,6 @@ Sea Gate Stormcaller	znr	77	Owned	Team Cut	Foil	2	U	~~	~~	Creature — Human Wiz
 Disfigure	zen	87	Owned	~~	Foil	1	B	~~	~~	Instant
 Bloodchief's Thirst	znr	94	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Shatterskull Smashing	znr	161	Owned	Team Cut	Foil	0	R	Red	~~	Land
-Explore	wwk	99	Owned	Team Cut	Foil	2	G	~~	~~	Sorcery
 Seal of Fire	nem	98	Owned	~~	Foil	1	R	~~	~~	Enchantment
 Portent	ice	90	Owned	~~	Non-foil	1	U	~~	~~	Sorcery
 Esika's Chariot	khm	315	Owned	~~	Foil	4	G	~~	~~	Legendary Artifact — Vehicle
@@ -296,7 +294,7 @@ Electrostatic Infantry	dmu	122	Owned	~~	Foil	2	R	~~	~~	Creature — Dwarf Wizard
 Manamorphose	shm	211	Owned	Team Cut	Foil	2	R,G	Hybrid	~~	Instant
 Timeless Dragon	mh2	388	Owned	~~	Foil	5	W	~~	~~	Creature — Dragon
 Archmage's Charm	h1r	7	Owned	~~	Foil	3	U	~~	~~	Instant
-Teferi, Temporal Pilgrim	bro	66	Owned	Team Cut	Foil	5	U	~~	~~	Legendary Planeswalker — Teferi
+Torrential Gearhulk	kld	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dress Down	pmh2	39s	Owned	~~	Foil	2	U	~~	~~	Enchantment
 Supreme Verdict	prtr	201★	Owned	~~	Foil	4	W,U	~~	~~	Sorcery
 Faerie Vandal	eld	45	Owned	Team Cut	Foil	2	U	~~	~~	Creature — Faerie Rogue
@@ -319,7 +317,7 @@ Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Blade Splicer	nph	4	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	dmr	273	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Urza's Bauble	ice	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Deeproot Wayfinder	mom	184	Owned	Team Cut	~~	"""~~"""	~~	~~	~~	~~
+Deeproot Wayfinder	mom	184	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Faerie Mastermind	mom	58	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Bone Shards	mh2	395	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Courser of Kruphix	bng	119	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
@@ -338,10 +336,10 @@ Flame of Anor	ltr	203	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
 Endurance	mh2	157	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Spellstutter Sprite	lrw	89	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Qasali Pridemage	tsr	383	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Blackmail	ons	127	Owned	Team Cut	Foil	"""~~"""	~~	~~	~~	~~
-Elusive Otter	woe	289	Owned	Team Cut	~~	"""~~"""	U	Blue	~~	~~
+Dreams of Steel and Oil	bro	92	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Elusive Otter	woe	289	Owned	Team Cut	Foil	"""~~"""	U	Blue	~~	~~
 Virtue of Persistence	woe	281	Owned	~~	Foil	"""2"""	~~	~~	~~	Sorcery
-Scalding Viper	woe	235	Owned	Team Cut	~~	"""~~"""	R	Red	~~	~~
+Scalding Viper	woe	295	Owned	Team Cut	Foil	"""~~"""	R	Red	~~	~~
 Questing Druid	woe	294	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Mosswood Dreadknight	woe	292	Owned	~~	Foil	"""~~"""	~~	Hybrid	~~	~~
 Restless Vinestalk	woe	261	Owned	Team Cut	~~	"""~~"""	~~	Multicolored	~~	~~
@@ -359,3 +357,5 @@ Sentinel of the Nameless City	lci	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jadelight Spelunker	lci	196	Owned	~~	Foil	"""3"""	~~	~~	~~	~~
 Stalactite Stalker	lci	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Kellan, Daring Traveler	lci	231	Owned	~~	Foil	"""~~"""	W	White	~~	~~
+Tolsimir, Friend to Wolves	war	224	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ripjaw Raptor	xln	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
