@@ -1,21 +1,21 @@
 Timestamp	Board	ChangeType	Name
 Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Fire // Ice
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Avacyn's Judgment
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Aether Spellbomb
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Quicken
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Urza's Bauble
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Lightning Phoenix
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Darkblast
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Drown in the Loch
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Ox of Agonas
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Endurance
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Rhonas the Indomitable
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Shardless Agent
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Deathgorge Scavenger
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Emry, Lurker of the Loch
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Kappa Cannoneer
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Serra Avenger
-Tue, 17 Dec 2019 02:50:18 +0000	mainboard	add	Bloodbraid Elf
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Avacyn's Judgment
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Aether Spellbomb
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Quicken
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Urza's Bauble
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Lightning Phoenix
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Darkblast
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Drown in the Loch
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Ox of Agonas
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Endurance
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Rhonas the Indomitable
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Shardless Agent
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Deathgorge Scavenger
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Emry, Lurker of the Loch
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Kappa Cannoneer
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Serra Avenger
+Tue, 17 Dec 2019 02:50:18 +0000	maybeboard	add	Bloodbraid Elf
 Sun, 22 Dec 2019 03:23:21 +0000	mainboard	add	Dauntless Bodyguard
 Sun, 22 Dec 2019 03:23:21 +0000	mainboard	add	Giver of Runes
 Sun, 22 Dec 2019 03:23:21 +0000	mainboard	add	Isamaru, Hound of Konda
@@ -1086,44 +1086,44 @@ Mon, 10 Apr 2023 16:17:59 +0000	mainboard	edit	Sprite Dragon
 Mon, 10 Apr 2023 16:17:59 +0000	mainboard	edit	Primordial Mist
 Mon, 10 Apr 2023 16:17:59 +0000	mainboard	edit	Rabbit Battery
 Mon, 10 Apr 2023 16:17:59 +0000	mainboard	edit	Blade of the Oni
-Mon, 10 Apr 2023 18:56:21 +0000	mainboard	remove	Emry, Lurker of the Loch
-Mon, 10 Apr 2023 18:56:21 +0000	mainboard	remove	Aether Spellbomb
+Mon, 10 Apr 2023 18:56:21 +0000	maybeboard	remove	Emry, Lurker of the Loch
+Mon, 10 Apr 2023 18:56:21 +0000	maybeboard	remove	Aether Spellbomb
 Mon, 10 Apr 2023 20:53:18 +0000	mainboard	add	Hero of Bladehold
 Mon, 10 Apr 2023 20:53:18 +0000	mainboard	add	Blade Splicer
 Mon, 10 Apr 2023 20:53:18 +0000	mainboard	add	Winota, Joiner of Forces
 Mon, 10 Apr 2023 20:53:18 +0000	mainboard	add	Sevinne's Reclamation
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Elspeth's Smite
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Faerie Mastermind
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Khenra Spellspear
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Deeproot Wayfinder
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Doomskar Warrior
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Wrenn and Realmbreaker
-Tue, 11 Apr 2023 12:51:24 +0000	mainboard	add	Thalia and The Gitrog Monster
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Elspeth's Smite
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Faerie Mastermind
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Khenra Spellspear
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Deeproot Wayfinder
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Doomskar Warrior
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Wrenn and Realmbreaker
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Thalia and The Gitrog Monster
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Death-Greeter's Champion
-Tue, 11 Apr 2023 17:19:23 +0000	mainboard	add	Wildfire Awakener
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Elspeth's Smite
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Faerie Mastermind
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Khenra Spellspear
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Deeproot Wayfinder
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Doomskar Warrior
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Wrenn and Realmbreaker
+Tue, 11 Apr 2023 12:51:24 +0000	maybeboard	add	Thalia and The Gitrog Monster
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Elspeth's Smite
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Faerie Mastermind
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Khenra Spellspear
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Deeproot Wayfinder
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Doomskar Warrior
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Wrenn and Realmbreaker
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Thalia and The Gitrog Monster
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Death-Greeter's Champion
+Tue, 11 Apr 2023 17:19:23 +0000	maybeboard	add	Wildfire Awakener
 Tue, 11 Apr 2023 17:21:29 +0000	mainboard	remove	Sevinne's Reclamation
 Tue, 11 Apr 2023 17:21:29 +0000	mainboard	remove	Winota, Joiner of Forces
 Tue, 11 Apr 2023 17:21:29 +0000	mainboard	remove	Blade Splicer
 Tue, 11 Apr 2023 17:21:29 +0000	mainboard	remove	Hero of Bladehold
-Tue, 11 Apr 2023 17:21:29 +0000	mainboard	add	Blade Splicer
-Tue, 11 Apr 2023 17:21:29 +0000	mainboard	add	Hero of Bladehold
-Tue, 11 Apr 2023 17:21:29 +0000	mainboard	add	Winota, Joiner of Forces
-Tue, 11 Apr 2023 17:21:29 +0000	mainboard	add	Sevinne's Reclamation
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Doomskar Warrior
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Deeproot Wayfinder
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Khenra Spellspear
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Faerie Mastermind
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Elspeth's Smite
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Thalia and The Gitrog Monster
-Wed, 12 Apr 2023 17:58:52 +0000	mainboard	remove	Wrenn and Realmbreaker
-Mon, 17 Apr 2023 17:51:29 +0000	mainboard	add	Pia and Kiran Nalaar
+Tue, 11 Apr 2023 17:21:29 +0000	maybeboard	add	Blade Splicer
+Tue, 11 Apr 2023 17:21:29 +0000	maybeboard	add	Hero of Bladehold
+Tue, 11 Apr 2023 17:21:29 +0000	maybeboard	add	Winota, Joiner of Forces
+Tue, 11 Apr 2023 17:21:29 +0000	maybeboard	add	Sevinne's Reclamation
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Doomskar Warrior
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Deeproot Wayfinder
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Khenra Spellspear
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Faerie Mastermind
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Elspeth's Smite
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Thalia and The Gitrog Monster
+Wed, 12 Apr 2023 17:58:52 +0000	maybeboard	remove	Wrenn and Realmbreaker
+Mon, 17 Apr 2023 17:51:29 +0000	maybeboard	add	Pia and Kiran Nalaar
 Tue, 18 Apr 2023 15:27:34 +0000	mainboard	edit	Dauntless Bodyguard
 Tue, 18 Apr 2023 15:27:34 +0000	mainboard	edit	Esper Sentinel
 Tue, 18 Apr 2023 15:27:34 +0000	mainboard	edit	Faerie Guidemother
@@ -1263,46 +1263,46 @@ Thu, 4 May 2023 13:26:02 +0000	mainboard	edit	Faerie Mastermind
 Thu, 4 May 2023 13:26:02 +0000	mainboard	edit	Doomskar Warrior
 Thu, 4 May 2023 13:26:02 +0000	mainboard	edit	Thalia and The Gitrog Monster
 Thu, 4 May 2023 13:26:02 +0000	mainboard	edit	Pia and Kiran Nalaar
-Thu, 4 May 2023 13:28:51 +0000	mainboard	add	Jolrael, Mwonvuli Recluse
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Pia and Kiran Nalaar
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Sevinne's Reclamation
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Winota, Joiner of Forces
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Blade Splicer
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Wildfire Awakener
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Death-Greeter's Champion
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Thalia and The Gitrog Monster
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Doomskar Warrior
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Deeproot Wayfinder
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Faerie Mastermind
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Elspeth's Smite
-Thu, 4 May 2023 15:27:18 +0000	mainboard	remove	Urza's Bauble
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Life from the Loam
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Flame Jab
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Raven's Crime
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Exploration
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Hogaak, Arisen Necropolis
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Crop Rotation
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Intuition
-Fri, 5 May 2023 16:54:58 +0000	mainboard	add	Slogurk, the Overslime
-Fri, 12 May 2023 12:31:31 +0000	mainboard	remove	Wrenn and Realmbreaker
-Fri, 12 May 2023 12:31:31 +0000	mainboard	remove	Lightning Phoenix
-Fri, 12 May 2023 12:31:31 +0000	mainboard	add	Defile
-Fri, 12 May 2023 12:31:31 +0000	mainboard	add	Repeal
-Fri, 12 May 2023 12:31:31 +0000	mainboard	add	Bone Shards
-Fri, 12 May 2023 12:31:31 +0000	mainboard	add	Mutagenic Growth
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Dismissive Pyromancer
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Cryptbreaker
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Faldorn, Dread Wolf Herald
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Fleeting Spirit
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Glint-Horn Buccaneer
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Hazoret the Fervent
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Insolent Neonate
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Jaxis, the Troublemaker
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Vikya, Scorching Stalwart
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Magmatic Insight
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Molten Vortex
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Soul of Windgrace
-Mon, 15 May 2023 01:53:52 +0000	mainboard	add	Lightning Axe
+Thu, 4 May 2023 13:28:51 +0000	maybeboard	add	Jolrael, Mwonvuli Recluse
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Pia and Kiran Nalaar
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Sevinne's Reclamation
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Winota, Joiner of Forces
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Blade Splicer
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Wildfire Awakener
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Death-Greeter's Champion
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Thalia and The Gitrog Monster
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Doomskar Warrior
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Deeproot Wayfinder
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Faerie Mastermind
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Elspeth's Smite
+Thu, 4 May 2023 15:27:18 +0000	maybeboard	remove	Urza's Bauble
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Life from the Loam
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Flame Jab
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Raven's Crime
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Exploration
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Hogaak, Arisen Necropolis
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Crop Rotation
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Intuition
+Fri, 5 May 2023 16:54:58 +0000	maybeboard	add	Slogurk, the Overslime
+Fri, 12 May 2023 12:31:31 +0000	maybeboard	remove	Wrenn and Realmbreaker
+Fri, 12 May 2023 12:31:31 +0000	maybeboard	remove	Lightning Phoenix
+Fri, 12 May 2023 12:31:31 +0000	maybeboard	add	Defile
+Fri, 12 May 2023 12:31:31 +0000	maybeboard	add	Repeal
+Fri, 12 May 2023 12:31:31 +0000	maybeboard	add	Bone Shards
+Fri, 12 May 2023 12:31:31 +0000	maybeboard	add	Mutagenic Growth
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Dismissive Pyromancer
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Cryptbreaker
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Faldorn, Dread Wolf Herald
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Fleeting Spirit
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Glint-Horn Buccaneer
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Hazoret the Fervent
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Insolent Neonate
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Jaxis, the Troublemaker
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Vikya, Scorching Stalwart
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Magmatic Insight
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Molten Vortex
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Soul of Windgrace
+Mon, 15 May 2023 01:53:52 +0000	maybeboard	add	Lightning Axe
 Mon, 15 May 2023 01:56:29 +0000	mainboard	swap-cut	Joraga Treespeaker
 Mon, 15 May 2023 01:56:29 +0000	mainboard	swap-add	Exploration
 Mon, 15 May 2023 01:56:29 +0000	mainboard	swap-cut	Tithe
@@ -1323,14 +1323,14 @@ Mon, 15 May 2023 01:56:29 +0000	mainboard	add	Repeal
 Mon, 15 May 2023 01:56:29 +0000	mainboard	add	Drown in the Loch
 Mon, 15 May 2023 01:56:29 +0000	mainboard	add	Mutagenic Growth
 Mon, 15 May 2023 01:56:29 +0000	mainboard	add	Defile
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Mutagenic Growth
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Bone Shards
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Repeal
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Defile
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Exploration
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Life from the Loam
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Jolrael, Mwonvuli Recluse
-Mon, 15 May 2023 01:56:29 +0000	mainboard	remove	Drown in the Loch
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Mutagenic Growth
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Bone Shards
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Repeal
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Defile
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Exploration
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Life from the Loam
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Jolrael, Mwonvuli Recluse
+Mon, 15 May 2023 01:56:29 +0000	maybeboard	remove	Drown in the Loch
 Wed, 14 Jun 2023 19:18:48 +0000	mainboard	edit	Mutagenic Growth
 Wed, 14 Jun 2023 19:18:48 +0000	mainboard	edit	Life from the Loam
 Wed, 14 Jun 2023 19:18:48 +0000	mainboard	edit	Courser of Kruphix
@@ -1470,11 +1470,11 @@ Thu, 29 Jun 2023 14:48:16 +0000	mainboard	edit	Negate
 Thu, 29 Jun 2023 14:48:16 +0000	mainboard	edit	Miscalculation
 Thu, 29 Jun 2023 14:48:16 +0000	mainboard	edit	Memory Lapse
 Thu, 29 Jun 2023 14:48:16 +0000	mainboard	edit	Mana Leak
-Fri, 7 Jul 2023 13:48:43 +0000	mainboard	remove	Endurance
+Fri, 7 Jul 2023 13:48:43 +0000	maybeboard	remove	Endurance
 Thu, 13 Jul 2023 21:00:01 +0000	mainboard	edit	Skullclamp
-Wed, 26 Jul 2023 13:26:19 +0000	mainboard	add	Stormwing Entity
-Wed, 26 Jul 2023 13:26:19 +0000	mainboard	add	Smoldering Egg
-Wed, 26 Jul 2023 13:26:19 +0000	mainboard	add	Delver of Secrets
+Wed, 26 Jul 2023 13:26:19 +0000	maybeboard	add	Stormwing Entity
+Wed, 26 Jul 2023 13:26:19 +0000	maybeboard	add	Smoldering Egg
+Wed, 26 Jul 2023 13:26:19 +0000	maybeboard	add	Delver of Secrets
 Sun, 6 Aug 2023 22:25:10 +0000	mainboard	edit	Retrofitter Foundry
 Sun, 6 Aug 2023 22:25:10 +0000	mainboard	edit	Repeal
 Sun, 6 Aug 2023 22:41:00 +0000	mainboard	edit	Seasoned Pyromancer
@@ -1631,36 +1631,36 @@ Tue, 17 Oct 2023 15:46:14 +0000	mainboard	edit	Vendetta
 Wed, 22 Nov 2023 13:46:52 +0000	mainboard	edit	Goblin Guide
 Wed, 22 Nov 2023 13:46:52 +0000	mainboard	edit	Elvish Reclaimer
 Wed, 22 Nov 2023 13:46:52 +0000	mainboard	edit	Horizon Canopy
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Delver of Secrets
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Smoldering Egg
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Stormwing Entity
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Jaxis, the Troublemaker
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Hazoret the Fervent
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Glint-Horn Buccaneer
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	remove	Hogaak, Arisen Necropolis
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	The Meathook Massacre
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Tyrant's Scorn
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Lórien Revealed
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Inti, Seneschal of the Sun
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Anim Pakal, Thousandth Moon
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Tishana's Tidebinder
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Helping Hand
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Jadelight Spelunker
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Sentinel of the Nameless City
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Kellan, Daring Traveler
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Bitter Triumph
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Sheoldred's Edict
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Power Word Kill
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Feed the Swarm
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Murderous Cut
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Wretched Confluence
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Tragic Fall
-Wed, 22 Nov 2023 14:06:31 +0000	mainboard	add	Myth Realized
-Wed, 22 Nov 2023 17:23:48 +0000	mainboard	add	Spitting Dilophosaurus
-Wed, 22 Nov 2023 17:23:48 +0000	mainboard	add	Broadside Bombardiers
-Wed, 22 Nov 2023 17:23:48 +0000	mainboard	add	Aisha of Sparks and Smoke
-Wed, 22 Nov 2023 17:23:48 +0000	mainboard	add	Laelia, the Blade Reforged
-Wed, 22 Nov 2023 17:23:48 +0000	mainboard	add	Thief of Sanity
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Delver of Secrets
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Smoldering Egg
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Stormwing Entity
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Jaxis, the Troublemaker
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Hazoret the Fervent
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Glint-Horn Buccaneer
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	remove	Hogaak, Arisen Necropolis
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	The Meathook Massacre
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Tyrant's Scorn
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Lórien Revealed
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Inti, Seneschal of the Sun
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Anim Pakal, Thousandth Moon
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Tishana's Tidebinder
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Helping Hand
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Jadelight Spelunker
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Sentinel of the Nameless City
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Kellan, Daring Traveler
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Bitter Triumph
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Sheoldred's Edict
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Power Word Kill
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Feed the Swarm
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Murderous Cut
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Wretched Confluence
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Tragic Fall
+Wed, 22 Nov 2023 14:06:31 +0000	maybeboard	add	Myth Realized
+Wed, 22 Nov 2023 17:23:48 +0000	maybeboard	add	Spitting Dilophosaurus
+Wed, 22 Nov 2023 17:23:48 +0000	maybeboard	add	Broadside Bombardiers
+Wed, 22 Nov 2023 17:23:48 +0000	maybeboard	add	Aisha of Sparks and Smoke
+Wed, 22 Nov 2023 17:23:48 +0000	maybeboard	add	Laelia, the Blade Reforged
+Wed, 22 Nov 2023 17:23:48 +0000	maybeboard	add	Thief of Sanity
 Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Misty Rainforest
 Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Scalding Tarn
 Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Verdant Catacombs
@@ -1670,17 +1670,17 @@ Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Bloodstained Mire
 Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Fiery Islet
 Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Sunbaked Canyon
 Thu, 23 Nov 2023 17:58:01 +0000	mainboard	edit	Waterlogged Grove
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Innocent Blood
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Kaito Shizuki
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Coppercoat Vanguard
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Leyline Binding
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Champion of the Parish
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Thalia's Lieutenant
-Tue, 28 Nov 2023 15:56:55 +0000	mainboard	add	Magda, Brazen Outlaw
-Tue, 28 Nov 2023 15:57:53 +0000	mainboard	add	Dreams of Steel and Oil
-Tue, 28 Nov 2023 15:57:53 +0000	mainboard	add	Agonizing Remorse
-Tue, 28 Nov 2023 15:57:53 +0000	mainboard	add	Cabal Therapy
-Wed, 29 Nov 2023 22:37:34 +0000	mainboard	add	Deep-Cavern Bat
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Innocent Blood
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Kaito Shizuki
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Coppercoat Vanguard
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Leyline Binding
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Champion of the Parish
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Thalia's Lieutenant
+Tue, 28 Nov 2023 15:56:55 +0000	maybeboard	add	Magda, Brazen Outlaw
+Tue, 28 Nov 2023 15:57:53 +0000	maybeboard	add	Dreams of Steel and Oil
+Tue, 28 Nov 2023 15:57:53 +0000	maybeboard	add	Agonizing Remorse
+Tue, 28 Nov 2023 15:57:53 +0000	maybeboard	add	Cabal Therapy
+Wed, 29 Nov 2023 22:37:34 +0000	maybeboard	add	Deep-Cavern Bat
 Thu, 30 Nov 2023 19:46:30 +0000	mainboard	edit	Breeding Pool
 Thu, 30 Nov 2023 19:46:30 +0000	mainboard	edit	Breeding Pool
 Thu, 30 Nov 2023 19:46:30 +0000	mainboard	edit	Polluted Delta
@@ -1717,26 +1717,26 @@ Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Sentinel of the Nameless City
 Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Jadelight Spelunker
 Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Stalactite Stalker
 Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Kellan, Daring Traveler
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Sheoldred's Edict
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Bitter Triumph
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Kellan, Daring Traveler
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Sentinel of the Nameless City
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Jadelight Spelunker
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Tishana's Tidebinder
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Anim Pakal, Thousandth Moon
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Inti, Seneschal of the Sun
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	Lórien Revealed
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	remove	The Meathook Massacre
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Blacklance Paragon
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Necron Deathmark
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Opposition Agent
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Tainted Indulgence
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Nymris, Oona's Trickster
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Siphon Insight
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Torrential Gearhulk
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Hullbreacher
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Steppe Lynx
-Fri, 1 Dec 2023 16:58:27 +0000	mainboard	add	Akoum Hellhound
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Sheoldred's Edict
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Bitter Triumph
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Kellan, Daring Traveler
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Sentinel of the Nameless City
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Jadelight Spelunker
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Tishana's Tidebinder
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Anim Pakal, Thousandth Moon
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Inti, Seneschal of the Sun
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	Lórien Revealed
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	remove	The Meathook Massacre
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Blacklance Paragon
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Necron Deathmark
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Opposition Agent
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Tainted Indulgence
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Nymris, Oona's Trickster
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Siphon Insight
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Torrential Gearhulk
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Hullbreacher
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Steppe Lynx
+Fri, 1 Dec 2023 16:58:27 +0000	maybeboard	add	Akoum Hellhound
 Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Loam Lion
 Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Kellan, Daring Traveler
 Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Tishana's Tidebinder
@@ -1751,20 +1751,20 @@ Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Jadelight Spelunker
 Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Anim Pakal, Thousandth Moon
 Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Elusive Otter
 Fri, 1 Dec 2023 18:46:22 +0000	mainboard	edit	Scalding Viper
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Ojer Kaslem, Deepest Growth
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Thrun, Breaker of Silence
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Verdurous Gearhulk
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Whisperwood Elemental
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Vorinclex
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Bramble Sovereign
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Caldaia Guardian
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Doomskar Warrior
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Lictor
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Nightpack Ambusher
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Ripjaw Raptor
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Soul Swallower
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Territorial Allosaurus
-Sat, 2 Dec 2023 14:44:47 +0000	mainboard	add	Ulvenwald Oddity
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Ojer Kaslem, Deepest Growth
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Thrun, Breaker of Silence
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Verdurous Gearhulk
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Whisperwood Elemental
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Vorinclex
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Bramble Sovereign
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Caldaia Guardian
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Doomskar Warrior
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Lictor
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Nightpack Ambusher
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Ripjaw Raptor
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Soul Swallower
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Territorial Allosaurus
+Sat, 2 Dec 2023 14:44:47 +0000	maybeboard	add	Ulvenwald Oddity
 Mon, 4 Dec 2023 22:44:13 +0000	mainboard	edit	Augur of Autumn
 Tue, 5 Dec 2023 14:21:55 +0000	mainboard	edit	Kird Ape
 Tue, 5 Dec 2023 14:21:55 +0000	mainboard	edit	Temple Garden
@@ -1986,11 +1986,11 @@ Wed, 27 Dec 2023 23:46:03 +0000	mainboard	edit	Whisperwood Elemental
 Wed, 27 Dec 2023 23:46:03 +0000	mainboard	edit	Tolsimir, Friend to Wolves
 Wed, 27 Dec 2023 23:46:03 +0000	mainboard	edit	Torrential Gearhulk
 Wed, 27 Dec 2023 23:46:03 +0000	mainboard	edit	Dreams of Steel and Oil
-Wed, 27 Dec 2023 23:48:15 +0000	mainboard	add	Renegade Rallier
-Thu, 28 Dec 2023 00:00:03 +0000	mainboard	remove	Ripjaw Raptor
-Thu, 28 Dec 2023 00:00:03 +0000	mainboard	remove	Whisperwood Elemental
-Thu, 28 Dec 2023 00:00:03 +0000	mainboard	remove	Dreams of Steel and Oil
-Sat, 30 Dec 2023 19:54:58 +0000	mainboard	remove	Torrential Gearhulk
+Wed, 27 Dec 2023 23:48:15 +0000	maybeboard	add	Renegade Rallier
+Thu, 28 Dec 2023 00:00:03 +0000	maybeboard	remove	Ripjaw Raptor
+Thu, 28 Dec 2023 00:00:03 +0000	maybeboard	remove	Whisperwood Elemental
+Thu, 28 Dec 2023 00:00:03 +0000	maybeboard	remove	Dreams of Steel and Oil
+Sat, 30 Dec 2023 19:54:58 +0000	maybeboard	remove	Torrential Gearhulk
 Wed, 31 Jan 2024 15:31:55 +0000	mainboard	edit	Lingering Souls
 Wed, 14 Feb 2024 21:56:51 +0000	mainboard	swap-cut	Qasali Pridemage
 Wed, 14 Feb 2024 21:56:51 +0000	mainboard	swap-add	Renegade Rallier
@@ -2005,8 +2005,8 @@ Fri, 16 Feb 2024 15:43:24 +0000	mainboard	remove	Elusive Otter
 Fri, 16 Feb 2024 15:43:24 +0000	mainboard	remove	Flame of Anor
 Fri, 16 Feb 2024 15:43:24 +0000	mainboard	add	Raucous Theater
 Fri, 16 Feb 2024 15:43:24 +0000	mainboard	add	Undercity Sewers
-Thu, 27 Jun 2024 18:39:42 +0000	mainboard	edit	Trostani, Three Whispers
-Thu, 27 Jun 2024 18:39:42 +0000	mainboard	edit	Fugitive Codebreaker
-Thu, 27 Jun 2024 18:39:42 +0000	mainboard	edit	Raucous Theater
-Thu, 27 Jun 2024 18:39:42 +0000	mainboard	edit	Undercity Sewers
-Thu, 27 Jun 2024 18:39:42 +0000	mainboard	edit	No More Lies
+Thu, 27 Jun 2024 18:49:01 +0000	mainboard	edit	Trostani, Three Whispers
+Thu, 27 Jun 2024 18:49:01 +0000	mainboard	edit	Fugitive Codebreaker
+Thu, 27 Jun 2024 18:49:01 +0000	mainboard	edit	Raucous Theater
+Thu, 27 Jun 2024 18:49:01 +0000	mainboard	edit	Undercity Sewers
+Thu, 27 Jun 2024 18:49:01 +0000	mainboard	edit	No More Lies
